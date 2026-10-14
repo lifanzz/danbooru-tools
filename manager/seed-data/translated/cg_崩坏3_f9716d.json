@@ -1,0 +1,46 @@
+{
+  "group_name": "cg_崩坏3_f9716d",
+  "display_name": "崩坏3",
+  "tags": [
+    {
+      "name": "1girl, griseo, honkai impact 3rd, light blue hair, low twintails, ahoge, purple eyes,  flat chest, black beret, feather hair ornament, flower hair ornament, white dress, blue bow, black collar, off shoulder, frills, blue flower, brooch, white ribbon, asymmetrical dress, barefoot",
+      "tag_cn": "小格蕾修",
+      "prompt": "1girl, griseo, honkai impact 3rd, light blue hair, low twintails, ahoge, purple eyes,  flat chest, black beret, feather hair ornament, flower hair ornament, white dress, blue bow, black collar, off shoulder, frills, blue flower, brooch, white ribbon, asymmetrical dress, barefoot",
+      "tag_cn_long": "",
+      "groups": [
+        "cg_崩坏3_f9716d"
+      ],
+      "groups_cn": [
+        "崩坏3"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    }
+  ],
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    },
+    {
+      "path": "sex/female",
+      "h4": "角色性别",
+      "h5": "女性角色",
+      "name_cn": "女性角色",
+      "name_en": "Female characters"
+    },
+    {
+      "path": "sex/male",
+      "h4": "角色性别",
+      "h5": "男性角色",
+      "name_cn": "男性角色",
+      "name_en": "Male characters"
+    }
+  ],
+  "total_tags": 1
+}

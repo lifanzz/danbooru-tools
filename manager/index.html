@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Danbooru 标签管理器 · 通用标签库</title>
+<link rel="icon" type="image/x-icon" href="assets/danbooru.ico">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/navigation.css">
+</head>
+
+<body data-page="library">
+
+<div class="header">
+  <div class="app-navigation-row"><span class="app-brand">Danbooru</span><nav class="app-navigation" id="appNavigation" aria-label="主要页面"></nav>  <button class="search-option-btn" id="settingsBtn" title="设置：配置打开来源网址的浏览器等" aria-label="设置">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33h.01a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51h.01a1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82v.01a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+  </button></div>
+  <div class="page-header-actions" id="tagHeaderActions">
+  <button class="model-nav-btn sidebar-toggle-btn" id="sidebarToggle" title="收起侧边栏">‹</button>
+  <div class="header-title">通用标签库</div>
+  <button class="add-btn" id="addTagHeaderBtn" title="新建通用标签">&#43; <span class="btn-text">新建通用标签</span></button>
+  <div class="search-box">
+    <span class="search-icon">&#128269;</span>
+    <input type="text" id="globalSearch" placeholder="搜索通用标签；多个词用空格或逗号分隔..." autocomplete="off">
+  </div>
+  <button class="search-option-btn" id="toggleLongDescriptionSearchBtn" title="匹配长说明：开启后，搜索也会匹配标签的详细说明；此设置会自动记住" aria-pressed="false">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 10h16M4 14h10M4 18h7"/></svg>
+  </button>
+  <div class="header-stats">
+    <div class="stat-chip">
+      <span>通用标签</span>
+      <span class="num" id="statTotal">-</span>
+    </div>
+  </div>
+
+  </div>
+  <div class="page-header-actions" id="modelHeaderActions" hidden>
+        
+          <div class="model-search-box">
+            <span class="search-icon">&#128269;</span>
+            <input type="search" id="modelSearch" placeholder="搜索模型名称、分类、提示词、文件路径或网址..." autocomplete="off">
+          </div>
+          
+          <div class="model-manager-actions"><button class="btn-secondary" id="refreshModelsBtn">↻ 刷新模型</button><button class="btn-secondary" id="lookupModelUrlsBtn">⌕ 补全缺失网址</button><button class="btn-primary" id="addModelBtn">+ 添加模型</button></div>
+<span class="model-search-result" id="modelSearchResult"></span>
+        
+  </div>
+</div>
+
+<div class="layout">
+  <div class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <span>标签分组</span>
+      <span id="groupCount">0</span>
+    </div>
+    <div class="sidebar-search">
+      <input type="text" id="groupSearch" placeholder="搜索分组..." autocomplete="off">
+    </div>
+    <div class="sidebar-list" id="groupList"></div>
+  </div>
+
+    <div class="main">
+    <div class="toolbar" id="toolbar" style="display:none;">
+      <div class="toolbar-table-tools" id="toolbarTableToolsLeft">
+        <!-- 开关放最前：显示筛选时新 UI 在它右侧展开，按钮自身位置不动。 -->
+        <button class="filter-btn" id="toggleConfidenceFilterBtn" title="同时隐藏或显示置信度筛选与置信度列；此设置会自动记住">隐藏置信度筛选</button>
+        <div class="toolbar-sep" id="confidenceFilterSeparator"></div>
+        <div class="toolbar-group" id="confidenceFilterGroup">
+          <label>置信度:</label>
+          <button class="filter-btn active" data-filter="confidence" data-value="all">全部</button>
+          <button class="filter-btn" data-filter="confidence" data-value="MANUAL" title="仅纳入手写等级">手写</button>
+          <button class="filter-btn" data-filter="confidence" data-value="A" title="纳入手写、A">A</button>
+          <button class="filter-btn" data-filter="confidence" data-value="B" title="纳入手写、A、B">B</button>
+          <button class="filter-btn" data-filter="confidence" data-value="C" title="纳入手写、A、B、C">C</button>
+          <button class="filter-btn" data-filter="confidence" data-value="D" title="纳入手写、A、B、C、D">D</button>
+          <button class="filter-btn" data-filter="confidence" data-value="none">未评分</button>
+        </div>
+        <div class="toolbar-sep"></div>
+      </div>
+      <span class="result-count" id="resultCount">0 条结果</span>
+      <div class="toolbar-sep"></div>
+      <div class="toolbar-group" id="tagBatchTools">
+        <button class="filter-btn" id="selectPageTagsBtn" title="选择或取消选择当前页的全部标签">选择本页</button>
+        <button class="filter-btn" id="selectAllTagsBtn" title="选择当前分组的全部标签，包含其他页，不受搜索和分类筛选影响">选择全部</button>
+        <button class="filter-btn" id="batchOperationsBtn" disabled>批量操作 (<span id="selectedTagCount">0</span>)</button>
+      </div>
+      <div class="toolbar-table-tools" id="toolbarTableToolsRight">
+        <div class="toolbar-sep"></div>
+        <div class="toolbar-group" title="拖动滑块可调整标签记录的竖向高度，设置会自动记住">
+          <label>记录高度:</label>
+          <input id="tagRowHeightInput" type="range" min="38" max="160" step="2" value="48">
+          <span id="tagRowHeightValue">48px</span>
+        </div>
+        <button class="filter-btn" id="toggleCategoryColumnBtn" title="点击后隐藏分类列；此设置会自动记住">隐藏分类</button>
+      </div>
+    </div>
+
+    <div class="category-tree" id="categoryTree" style="display:none;"></div>
+
+      <div class="table-container" id="tableContainer">
+      <div class="welcome" id="welcomeView">
+        <h2>通用标签库</h2>
+        <p>选择通用标签分组或搜索标签；角色提示词卡片请进入角色提示词库</p>
+        <div class="stats-grid" id="statsGrid">
+          <div class="stat-card">
+            <div class="value" id="wTotal">-</div>
+            <div class="label">通用标签数</div>
+          </div>
+          <div class="stat-card">
+            <div class="value" id="wGroups">-</div>
+            <div class="label">分组数</div>
+          </div>
+          <div class="stat-card conf-a">
+            <div class="value" id="wConfA">-</div>
+            <div class="label">置信度 A</div>
+          </div>
+          <div class="stat-card conf-b">
+            <div class="value" id="wConfB">-</div>
+            <div class="label">置信度 B</div>
+          </div>
+          <div class="stat-card conf-c">
+            <div class="value" id="wConfC">-</div>
+            <div class="label">置信度 C</div>
+          </div>
+          <div class="stat-card conf-d">
+            <div class="value" id="wConfD">-</div>
+            <div class="label">置信度 D</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Dual-column table layout -->
+      <div id="dualTableWrap" style="display:none;flex:1;overflow:hidden;">
+        <div class="tag-table-wrap" id="tableWrapLeft">
+          <table class="tag-table" id="tagTableLeft">
+            <thead>
+              <tr>
+                <th class="tag-select-cell"><input class="select-page-checkbox" type="checkbox" title="选择本页"></th>
+                <th data-sort="name" style="width:22%">标签名 <span class="sort-arrow">&#9650;</span></th>
+                <th data-sort="tag_cn" style="width:16%">中文翻译 <span class="sort-arrow">&#9650;</span></th>
+                <th>说明</th>
+                <th class="confidence-column" data-sort="confidence" style="width:60px">置信度 <span class="sort-arrow">&#9650;</span></th>
+                <th class="category-column" data-sort="category_path" style="width:90px">分类 <span class="sort-arrow">&#9650;</span></th>
+                <th style="width:110px"></th>
+              </tr>
+            </thead>
+            <tbody id="tagBodyLeft"></tbody>
+          </table>
+        </div>
+        <div class="tag-table-wrap" id="tableWrapRight">
+          <table class="tag-table" id="tagTableRight">
+            <thead>
+              <tr>
+                <th class="tag-select-cell"><input class="select-page-checkbox" type="checkbox" title="选择本页"></th>
+                <th data-sort="name" style="width:22%">标签名 <span class="sort-arrow">&#9650;</span></th>
+                <th data-sort="tag_cn" style="width:16%">中文翻译 <span class="sort-arrow">&#9650;</span></th>
+                <th>说明</th>
+                <th class="confidence-column" data-sort="confidence" style="width:60px">置信度 <span class="sort-arrow">&#9650;</span></th>
+                <th class="category-column" data-sort="category_path" style="width:90px">分类 <span class="sort-arrow">&#9650;</span></th>
+                <th style="width:110px"></th>
+              </tr>
+            </thead>
+            <tbody id="tagBodyRight"></tbody>
+          </table>
+        </div>
+      </div>
+      <!-- Single-column layout used below the dual-column width threshold -->
+      <table class="tag-table" id="tagTable" style="display:none;">
+        <thead>
+          <tr>
+            <th class="tag-select-cell"><input class="select-page-checkbox" type="checkbox" title="选择本页"></th>
+            <th data-sort="name" style="width:22%">标签名 <span class="sort-arrow">&#9650;</span></th>
+            <th data-sort="tag_cn" style="width:16%">中文翻译 <span class="sort-arrow">&#9650;</span></th>
+            <th>说明</th>
+            <th class="confidence-column" data-sort="confidence" style="width:60px">置信度 <span class="sort-arrow">&#9650;</span></th>
+            <th class="category-column" data-sort="category_path" style="width:90px">分类 <span class="sort-arrow">&#9650;</span></th>
+            <th style="width:110px"></th>
+          </tr>
+        </thead>
+        <tbody id="tagBody"></tbody>
+      </table>
+
+      <div class="preset-grid" id="presetGrid" style="display:none;"></div>
+
+      <div class="empty-state" id="emptyState" style="display:none;">
+        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <div>没有找到匹配的标签</div>
+      </div>
+
+        <div class="loading" id="loadingView" style="display:none;">
+        <div class="spinner"></div>
+        <div style="color:var(--text-muted); font-size:13px;">加载中...</div>
+        </div>
+      </div>
+
+      <div class="model-manager" id="modelManagerView" style="display:none;">
+        <div class="model-manager-header">
+          <div class="model-manager-title">
+            <h2>模型管理</h2>
+            <p>集中记录模型文件、来源链接、常用提示词与封面图；刷新会扫描指定的 ComfyUI 模型目录。</p>
+          </div>
+
+        </div>
+        <div class="model-scan-scope" id="modelScanScope">扫描范围：<strong>LoRA、UNet、Checkpoints</strong> 三个文件夹及其子文件夹。</div>
+
+        <div class="model-library-layout">
+          <aside class="model-category-panel" aria-label="模型分类">
+            <div class="model-category-panel-header">分类目录 <span>点击筛选 · 右键操作</span></div>
+            <div class="model-category-tree" id="modelCategoryFilters"></div>
+          </aside>
+          <div class="model-category-menu" id="modelCategoryMenu" role="menu" hidden><button type="button" data-action="open" role="menuitem">在资源管理器打开</button><button type="button" data-action="export" role="menuitem">导出配置表</button></div>
+          <section class="model-library-content">
+            <div class="model-category-current" id="modelCategoryCurrent"></div>
+            <div class="model-grid" id="modelGrid"></div>
+            <div class="model-empty" id="modelEmpty" style="display:none;">还没有模型记录。点击“添加模型”建立第一条记录。</div>
+          </section>
+        </div>
+      </div>
+
+      <div class="pagination" id="pagination" style="display:none;"></div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <div class="modal-header">
+      <h3 id="modalTitle">Tag Detail</h3>
+      <div style="display:flex;align-items:center;">
+        <button class="modal-edit-btn" id="modalEditBtn" title="编辑此标签" style="display:none;">&#9998;</button>
+        <button class="modal-close" id="modalClose">&times;</button>
+      </div>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<div class="modal-overlay" id="addModalOverlay">
+  <div class="modal" style="width:620px;">
+    <div class="modal-header">
+      <h3 id="addModalTitle">新建通用标签</h3>
+      <button class="modal-close" id="addModalClose">&times;</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <label class="form-label required" id="addTagNameLabel">通用标签名 (English)</label>
+        <textarea class="form-textarea" id="addTagName" placeholder="e.g. red_eyes, long_hair" rows="1" autocomplete="off"></textarea>
+        <div class="tag-exists-hint" id="addTagExistsHint">该标签已存在，提交将更新现有数据</div>
+      </div>
+      <div class="form-row" id="addTagMetaRow">
+        <div class="form-group">
+          <label class="form-label" id="addTagCnLabel">中文翻译</label>
+          <input type="text" class="form-input" id="addTagCn" placeholder="e.g. 红色眼睛">
+        </div>
+        <div class="form-group" style="max-width:140px;">
+          <label class="form-label">置信度</label>
+          <select class="form-select" id="addTagConfidence">
+            <option value="">未评分</option>
+            <option value="MANUAL">手写 - 最高</option>
+            <option value="A">A - 高</option>
+            <option value="B">B - 中高</option>
+            <option value="C">C - 中低</option>
+            <option value="D">D - 低</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="form-label" id="addTagLongDescLabel">详细说明</label>
+        <textarea class="form-textarea" id="addTagLongDesc" placeholder="标签的详细中文解释..." rows="2"></textarea>
+      </div>
+      <div class="form-row" id="addTagSourceRow">
+        <div class="form-group">
+          <label class="form-label" id="addTagCategoryLabel">分类路径</label>
+          <select class="form-select" id="addTagCategory"></select>
+        </div>
+        <div class="form-group">
+          <label class="form-label">Wiki URL</label>
+          <input type="text" class="form-input" id="addTagWiki" placeholder="/wiki_pages/...">
+        </div>
+      </div>
+      <div class="form-group" id="addPresetGroupRow" style="display:none;">
+        <label class="form-label" for="addPresetGroup">保存到角色分组</label>
+        <select class="form-select" id="addPresetGroup"></select>
+      </div>
+      <div class="form-group" id="addPresetCategoryRow" style="display:none;"><label class="form-label" for="addPresetCategory">二级分组</label><select class="form-select" id="addPresetCategory"></select></div>
+      <div class="form-group" id="addGroupRow">
+        <label class="form-label">所属分组 (可多选)</label>
+        <div class="group-checkboxes" id="addGroupCheckboxes"></div>
+      </div>
+      <div class="form-error" id="addTagError"></div>
+      <div class="form-actions">
+        <div class="form-actions-danger" id="addTagDeleteRow" style="display:none;">
+          <button class="btn-danger" id="addTagDeleteBtn">删除此标签</button>
+        </div>
+        <div class="form-actions-confirm">
+          <button class="btn-secondary" id="addTagCancel">取消</button>
+          <button class="btn-primary" id="addTagSubmit">保存通用标签</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="batchGroupModalOverlay">
+  <div class="modal" style="width:560px;">
+    <div class="modal-header">
+      <h3>批量添加所属分组</h3>
+      <button class="modal-close" id="batchGroupModalClose">&times;</button>
+    </div>
+    <div class="modal-body">
+      <p id="batchGroupSelectionHint" style="margin-top:0;color:var(--text-muted);"></p>
+      <div class="form-group">
+        <label class="form-label">选择要加入的分组</label>
+        <div class="group-checkboxes" id="batchGroupCheckboxes"></div>
+      </div>
+      <div class="form-error" id="batchGroupError"></div>
+      <div class="form-actions">
+        <div class="form-actions-confirm">
+          <button class="btn-secondary" id="batchGroupCancel">取消</button>
+          <button class="btn-primary" id="batchGroupSubmit">添加到所选分组</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="batchOperationsOverlay">
+  <div class="modal" style="width:480px;">
+    <div class="modal-header"><h3>批量操作</h3><button class="modal-close" id="batchOperationsClose">&times;</button></div>
+    <div class="modal-body">
+      <p id="batchOperationsHint" style="margin-top:0;color:var(--text-muted);"></p>
+      <div class="batch-operation-grid">
+        <button class="btn-secondary" id="batchAddGroupBtn">添加分组</button>
+        <button class="btn-secondary" id="batchMoveGroupBtn">移动分组</button>
+        <button class="btn-secondary" id="batchMoveCategoryBtn">移动二级分组</button>
+        <button class="btn-danger" id="deleteSelectedTagsBtn">删除标签</button>
+      </div>
+      <div class="form-actions"><div class="form-actions-confirm"><button class="btn-secondary" id="batchOperationsCancel">关闭</button></div></div>
+    </div>
+  </div>
+</div>
+<div class="modal-overlay" id="batchCategoryOverlay">
+  <div class="modal" style="width:520px;">
+    <div class="modal-header"><h3>移动二级分组</h3><button class="modal-close" id="batchCategoryClose">&times;</button></div>
+    <div class="modal-body">
+      <p id="batchCategoryHint" style="margin-top:0;color:var(--text-muted);"></p>
+      <div class="form-group"><label class="form-label" for="batchCategoryGroup">所属分组</label><select class="form-select" id="batchCategoryGroup"></select></div>
+      <div class="form-group"><label class="form-label" for="batchCategoryTarget">目标二级分组</label><select class="form-select" id="batchCategoryTarget"></select></div>
+      <div class="model-form-note">修改所选标签或角色卡在这个分组里的二级分类，不改变其所属分组。</div>
+      <div class="form-error" id="batchCategoryError"></div>
+      <div class="form-actions"><div class="form-actions-confirm"><button class="btn-secondary" id="batchCategoryCancel">取消</button><button class="btn-primary" id="batchCategorySubmit">移动到此二级分组</button></div></div>
+    </div>
+  </div>
+</div>
+<div class="modal-overlay" id="batchMoveModalOverlay">
+  <div class="modal" style="width:560px;">
+    <div class="modal-header">
+      <h3>批量移动分组</h3>
+      <button class="modal-close" id="batchMoveModalClose">&times;</button>
+    </div>
+    <div class="modal-body">
+      <p id="batchMoveSelectionHint" style="margin-top:0;color:var(--text-muted);"></p>
+      <div class="form-group">
+        <label class="form-label">选择目标分组（可多选；移动后只保留勾选的分组）</label>
+        <div class="group-checkboxes" id="batchMoveCheckboxes"></div>
+      </div>
+      <div class="form-error" id="batchMoveError"></div>
+      <div class="form-actions">
+        <div class="form-actions-confirm">
+          <button class="btn-secondary" id="batchMoveCancel">取消</button>
+          <button class="btn-primary" id="batchMoveSubmit">移动到所选分组</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="modelModalOverlay">
+  <div class="modal" style="width:620px;">
+    <div class="modal-header">
+      <h3 id="modelModalTitle">添加模型</h3>
+      <button class="modal-close" id="modelModalClose">&times;</button>
+    </div>
+    <div class="modal-body">
+      <div class="form-group">
+        <label class="form-label required" id="modelNameLabel">模型名称</label>
+        <input type="text" class="form-input" id="modelName" placeholder="例如：Realistic Vision V6">
+        <div class="model-form-note" id="modelNameNote" style="display:none;">名称与实际模型文件名同步；文件后缀保持不变，重名会被阻止。</div>
+      </div>
+      <div class="form-group">
+        <label class="form-label">模型分类</label>
+        <input type="text" class="form-input" id="modelCategory" list="modelCategoryList" placeholder="例如：Illustrious、Flux、Wan">
+        <datalist id="modelCategoryList"></datalist>
+        <div class="model-form-note">可从已有分类中选择，也可直接输入新分类。</div>
+      </div>
+      <div class="form-group" id="modelAddFilePathGroup">
+        <label class="form-label">文件位置</label>
+        <input type="text" class="form-input" id="modelFilePath" placeholder="例如：D:\\ComfyUI\\models\\checkpoints\\model.safetensors">
+      </div>
+      <div class="form-group">
+        <label class="form-label">网址</label>
+        <input type="url" class="form-input" id="modelUrl" placeholder="https://civitai.com/models/...">
+      </div>
+      <section class="model-prompt-sets" aria-label="提示词图片组">
+        <div class="model-prompt-sets-header"><label class="form-label">常用提示词＋图片组</label></div>
+        <div class="model-prompt-set-tabs" role="group" aria-label="选择提示词图片组">
+          <div id="modelPromptSetTabs"></div>
+          <button type="button" class="btn-secondary model-add-prompt-set" id="modelAddPromptSetBtn" aria-label="新增一套提示词和图片" title="新增一套">+</button>
+        </div>
+        <div class="model-prompt-set-actions"><button type="button" class="btn-secondary" id="modelPromptSetUpBtn">上移</button><button type="button" class="btn-secondary" id="modelPromptSetDownBtn">下移</button><button type="button" class="btn-danger" id="modelRemovePromptSetBtn">删除此套</button></div>
+      <div class="model-prompt-image-pair" id="modelPromptImagePair">
+      <div class="form-group model-prompt-field">
+        <label class="form-label" for="modelPrompt">常用提示词（可留空）</label>
+        <textarea class="form-textarea" id="modelPrompt" rows="4" placeholder="记录该模型常用的正向提示词或触发词..."></textarea>
+      </div>
+      <div class="form-group model-image-field">
+        <label class="form-label">图片（可留空）</label>
+        <div class="model-image-drop-zone" id="modelImageDropZone" tabindex="0" role="button" aria-pressed="false" aria-label="选中此套图片，按 Ctrl+V 粘贴，或拖入图片上传">
+          <div class="model-image-empty" id="modelImageEmpty">暂无图片 · 点击选中或拖入图片</div>
+          <img class="model-image-preview" id="modelImagePreview" alt="此套图片完整预览" draggable="false">
+          <div class="model-image-drop-hint" id="modelImageDropHint" role="status">点击图片区域选中后按 Ctrl+V，或拖入一张图片。</div>
+        </div>
+      </div>
+      </div>
+      </section>
+      <div class="form-group">
+        <label class="form-label">推荐参数（可留空）</label>
+        <textarea class="form-textarea" id="modelRecommendedParams" rows="3" placeholder="例如：步数 8｜CFG 1.0｜采样器 Euler｜调度器 simple"></textarea>
+      </div>
+      <div class="model-file-location" id="modelFileLocationNote" style="display:none;"></div>
+      <div class="model-file-location model-hash-row" id="modelHashNote" style="display:none;">文件哈希（SHA256）：<span class="model-hash-value" id="modelHashValue"></span><button type="button" class="model-hash-copy" id="modelHashCopyBtn">复制</button></div>
+    </div>
+    <div class="model-modal-footer">
+      <div class="form-error" id="modelFormError"></div>
+      <div class="form-actions">
+        <div class="form-actions-danger" id="modelDeleteRow" style="display:none;"><button class="btn-danger" id="modelDeleteBtn">删除此模型</button></div>
+        <div class="form-actions-confirm"><button class="btn-secondary" id="modelCancelBtn">取消</button><button class="btn-primary" id="modelSaveBtn">保存</button></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal-overlay" id="newGroupModalOverlay">
+  <div class="modal" style="width:440px;">
+    <div class="modal-header"><h3>新建分组</h3><button class="modal-close" id="newGroupClose">&times;</button></div>
+    <div class="modal-body">
+      <div class="form-group"><label class="form-label required" for="newGroupName">分组名称</label><input class="form-input" id="newGroupName" placeholder="输入分组名称"></div>
+      <div class="form-error" id="newGroupError" style="display:block;"></div>
+      <div class="form-actions"><div class="form-actions-confirm"><button class="btn-secondary" id="newGroupCancel">取消</button><button class="btn-primary" id="newGroupSave">创建分组</button></div></div>
+    </div>
+  </div>
+</div>
+<div class="modal-overlay" id="settingsModalOverlay">
+  <div class="modal" style="width:560px;">
+    <div class="modal-header"><h3>设置</h3><button class="modal-close" id="settingsClose">&times;</button></div>
+    <div class="modal-body">
+      <div class="form-group"><label class="form-label" for="settingsGroupLanguage">标签分组显示语言</label><select class="form-select" id="settingsGroupLanguage"><option value="zh">中文</option><option value="en">英文</option></select></div>
+      <div class="form-group"><label class="form-label" for="settingsCategoryLanguage">二级标签分组显示语言</label><select class="form-select" id="settingsCategoryLanguage"><option value="zh">中文</option><option value="en">英文</option></select></div>
+      <div class="form-group"><label class="form-label" for="settingsUnratedConfidence">未评分按哪个置信度等级处理</label><select class="form-select" id="settingsUnratedConfidence"><option value="MANUAL">手写（最高）</option><option value="A">A</option><option value="B">B</option><option value="C">C</option><option value="D" selected>D（最低）</option></select><div class="model-form-note">用于置信度筛选和排序，不修改标签原来的评分。筛选某等级时包含该等级及以上；“未评分”按钮仍只查看未评分项。</div></div>
+      <div class="form-group">
+        <label class="form-label" for="settingsBrowserSelect">打开来源网址（模型链接、Wiki 等）使用</label>
+        <select class="form-select" id="settingsBrowserSelect"></select>
+        <div class="model-form-note">选择“系统默认浏览器”时由 Windows 决定；检测列表来自本机常见安装位置。</div>
+      </div>
+      <div class="form-group" id="settingsCustomBrowserRow" style="display:none;">
+        <label class="form-label" for="settingsCustomBrowser">浏览器程序路径（.exe）</label>
+        <input type="text" class="form-input" id="settingsCustomBrowser" placeholder="例如 D:\Tools\Browser\browser.exe">
+      </div>
+      <div class="form-error" id="settingsError"></div>
+      <div class="form-actions">
+        <div class="form-actions-confirm">
+          <button class="btn-secondary" id="settingsTestBtn" title="用当前选择的浏览器打开一个测试网页，无需先保存">测试打开</button>
+          <button class="btn-secondary" id="settingsCancel">取消</button>
+          <button class="btn-primary" id="settingsSave">保存</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal-overlay" id="groupEditModalOverlay">
+  <div class="modal" style="width:760px;max-width:95vw;">
+    <div class="modal-header"><h3>编辑分组</h3><button class="modal-close" id="groupEditClose">&times;</button></div>
+    <div class="modal-body">
+      <div class="group-edit-names">
+        <div class="form-group"><label class="form-label required" for="groupEditCn">分组中文名</label><input class="form-input" id="groupEditCn"></div>
+        <div class="form-group"><label class="form-label required" for="groupEditEn">分组英文名</label><input class="form-input" id="groupEditEn"></div>
+      </div>
+      <div class="group-category-heading"><span>二级分组</span><button class="btn-secondary" id="groupCategoryAdd">添加二级分组</button></div>
+      <div class="model-form-note">可修改中英文名称。同名分类会合并，笼统分类统一为末尾的“未分类”。删除分类后，标签或角色卡仍保留并归入未分类；点击保存后生效。</div>
+      <div id="groupCategoryRows"></div>
+      <div class="form-error" id="groupEditError"></div>
+      <div class="form-actions"><div class="form-actions-confirm"><button class="btn-secondary" id="groupEditCancel">取消</button><button class="btn-primary" id="groupEditSave">保存分组</button></div></div>
+    </div>
+  </div>
+</div>
+<div class="modal-overlay unsaved-card-overlay" id="unsavedCardOverlay" aria-hidden="true">
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="unsavedCardTitle" aria-describedby="unsavedCardMessage" style="width:440px;">
+    <div class="modal-header"><h3 id="unsavedCardTitle">保存修改？</h3></div>
+    <div class="modal-body">
+      <p id="unsavedCardMessage"></p>
+      <div class="form-actions unsaved-card-actions">
+        <button type="button" class="btn-secondary" id="unsavedCardDiscard">不保存</button>
+        <button type="button" class="btn-secondary" id="unsavedCardContinue">继续编辑</button>
+        <button type="button" class="btn-primary" id="unsavedCardSave">保存修改</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="assets/search-engine.js"></script>
+<script src="assets/card-editor.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/model-library.js"></script>
+<script src="assets/navigation.js"></script>
+<script src="assets/main-views.js"></script>
+<script>
+// Bootstrap: start the app once every script above has defined its domain.
+init().then(startMainViews);
+
+// The ComfyUI "关闭 ComfyUI 与 Danbooru" node asks the local server to set
+// this flag before stopping it. Close if the browser permits it; otherwise
+// leave a harmless blank tab instead of a connection-error page.
+var closeWebuiPoll = setInterval(function() {
+  fetch('/api/close-webui-state', {method: 'POST', cache: 'no-store'}).then(function(response) {
+    return response.ok ? response.json() : null;
+  }).then(function(state) {
+    if (!state || !state.closing) return;
+    clearInterval(closeWebuiPoll);
+    fetch('/api/close-webui-ack', {method: 'POST', keepalive: true}).finally(function() {
+      window.close();
+      setTimeout(function() {
+        if (!window.closed) window.location.replace('about:blank');
+      }, 80);
+    });
+  }).catch(function() {});
+}, 300);
+</script>
+</body>
+</html>

@@ -1,0 +1,854 @@
+{
+  "group_name": "cg_preset_wuthering_waves",
+  "display_name": "鸣潮",
+  "source_url": "",
+  "url": "",
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    },
+    {
+      "path": "sex/female",
+      "h4": "角色性别",
+      "h5": "女性角色",
+      "name_cn": "女性角色",
+      "name_en": "Female characters"
+    },
+    {
+      "path": "sex/male",
+      "h4": "角色性别",
+      "h5": "男性角色",
+      "name_cn": "男性角色",
+      "name_en": "Male characters"
+    }
+  ],
+  "tags": [
+    {
+      "name": "encore",
+      "tag_cn": "安可（鸣潮）",
+      "prompt": "encore \\(wuthering waves\\), cross-shaped-pupils, thick eyebrows, purple eyes, blush, hair ornament, pink hair, ahoge, hair bow, pink bow, low twintails, dress, bag, earrings, short, black sleeves, white sleeves, bowtie, black footwear",
+      "tag_cn_long": "角色预设：复制时会一次性复制全部外观标签。",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "Aalto, wuthering_waves",
+      "tag_cn": "秋水",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：秋水（Aalto, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Aemeath, wuthering_waves",
+      "tag_cn": "爱弥斯",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：爱弥斯（Aemeath, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Augusta, wuthering_waves",
+      "tag_cn": "奥古斯塔",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：奥古斯塔（Augusta, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Baizhi, wuthering_waves",
+      "tag_cn": "白芷",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：白芷（Baizhi, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Brant, wuthering_waves",
+      "tag_cn": "布兰特",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：布兰特（Brant, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Buling, wuthering_waves",
+      "tag_cn": "卜灵",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：卜灵（Buling, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Calcharo, wuthering_waves",
+      "tag_cn": "卡卡罗",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：卡卡罗（Calcharo, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Camellya, wuthering_waves",
+      "tag_cn": "椿",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：椿（Camellya, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "camellya \\(wuthering waves\\), 1girl, solo, red pupils ,dress, white dress, hair ornament, clothing cutout, asymmetrical clothes,twintails,"
+    },
+    {
+      "name": "Cantarella, wuthering_waves",
+      "tag_cn": "坎特蕾拉",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：坎特蕾拉（Cantarella, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Cartethyia, wuthering_waves",
+      "tag_cn": "卡提希娅",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：卡提希娅（Cartethyia, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "cartethyia\\(wuthering waves\\),long hair,pointy ears,jewelry,dress,standing,tachi-e,anklet,blonde hair,bracelet,earrings,white dress,very long hair,bare legs,sleeveless,bare shoulders,short dress,high heels,strappy heels,toes,sandals,toenails,toenail polish,anklet,nail polish,white footwear,"
+    },
+    {
+      "name": "Changli, wuthering_waves",
+      "tag_cn": "长离",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：长离（Changli, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Chisa, wuthering_waves",
+      "tag_cn": "千咲",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：千咲（Chisa, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Chixia, wuthering_waves",
+      "tag_cn": "炽霞",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：炽霞（Chixia, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Ciaccona, wuthering_waves",
+      "tag_cn": "夏空",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：夏空（Ciaccona, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Danjin, wuthering_waves",
+      "tag_cn": "丹瑾",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：丹瑾（Danjin, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Denia, wuthering_waves",
+      "tag_cn": "德尼亚",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：德尼亚（Denia, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Galbrena, wuthering_waves",
+      "tag_cn": "加布蕾娜",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：加布蕾娜（Galbrena, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Hiyuki, wuthering_waves",
+      "tag_cn": "希由纪",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：希由纪（Hiyuki, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Iuno, wuthering_waves",
+      "tag_cn": "尤诺",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：尤诺（Iuno, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Jianxin, wuthering_waves",
+      "tag_cn": "鉴心",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：鉴心（Jianxin, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Jinhsi, wuthering_waves",
+      "tag_cn": "今汐",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：今汐（Jinhsi, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "jinhsi \\(wuthering waves\\), white hair, long hair,silver eyes,blunt bangs,hair ornament,  hair rings,hair ribbon, jewelry, earrings, twintails, \n//衣服\nwhite thighhighs, black dress,"
+    },
+    {
+      "name": "Jiyan, wuthering_waves",
+      "tag_cn": "忌炎",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：忌炎（Jiyan, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Lingyang, wuthering_waves",
+      "tag_cn": "凌阳",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：凌阳（Lingyang, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Lucilla, wuthering_waves",
+      "tag_cn": "卢希拉",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：卢希拉（Lucilla, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Lucy, wuthering_waves",
+      "tag_cn": "露西",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：露西（Lucy, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Lumi, wuthering_waves",
+      "tag_cn": "灯灯",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：灯灯（Lumi, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Lupa, wuthering_waves",
+      "tag_cn": "露帕",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：露帕（Lupa, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Luuk Herssen, wuthering_waves",
+      "tag_cn": "卢克·赫森",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：卢克·赫森（Luuk Herssen, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Lynae, wuthering_waves",
+      "tag_cn": "琳奈",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：琳奈（Lynae, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Mornye, wuthering_waves",
+      "tag_cn": "莫妮耶",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：莫妮耶（Mornye, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Mortefi, wuthering_waves",
+      "tag_cn": "莫特斐",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：莫特斐（Mortefi, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Phoebe, wuthering_waves",
+      "tag_cn": "菲比",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：菲比（Phoebe, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "Phoebe \\(Wuthering Waves\\),very long hair,blonde hair,long hair,X-shaped hairpin,purple eyes,\nblack gloves,white hat,white dress,jewelry,white pantyhose,see-through pantyhose,white footwear,"
+    },
+    {
+      "name": "Phrolova, wuthering_waves",
+      "tag_cn": "芙露德莉斯",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：芙露德莉斯（Phrolova, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Qiuyuan, wuthering_waves",
+      "tag_cn": "仇远",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：仇远（Qiuyuan, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Rebecca, wuthering_waves",
+      "tag_cn": "瑞贝卡",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：瑞贝卡（Rebecca, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Roccia, wuthering_waves",
+      "tag_cn": "洛可可",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：洛可可（Roccia, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "roccia \\(wuthering waves\\), 1girl, heterochromia,x-shaped pupils, solo, twintails, long hair, long sleeves, hair ornament, skirt, wrist scrunchie, hat, thigh strap, blush, blue jacket"
+    },
+    {
+      "name": "Sanhua, wuthering_waves",
+      "tag_cn": "散华",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：散华（Sanhua, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Shorekeeper, wuthering_waves",
+      "tag_cn": "守岸人",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：守岸人（Shorekeeper, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "shorekeeper \\(wuthering waves\\), 1girl, solo, breasts, dress, blue eyes,red pupils,veil, alternate costume, sandals, long hair, armlet, hair between eyes, white dress, high heels, white dress, butterfly,"
+    },
+    {
+      "name": "Sigrika, wuthering_waves",
+      "tag_cn": "西格莉卡",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：西格莉卡（Sigrika, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Suisui, wuthering_waves",
+      "tag_cn": "岁岁",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：岁岁（Suisui, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Taoqi, wuthering_waves",
+      "tag_cn": "桃祈",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：桃祈（Taoqi, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Verina, wuthering_waves",
+      "tag_cn": "维里奈",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：维里奈（Verina, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "verina \\(wuthering waves\\), long hair, blonde hair, green hair tips, gradient hair, green eyes, twintails, hair rings, bow hairband, green hair bow, black choker, green dress, sleeveless dress, gradient dress, white shorts, white fingerless gloves, white leg warmers, green shoes"
+    },
+    {
+      "name": "Xiangli Yao, wuthering_waves",
+      "tag_cn": "相里要",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：相里要（Xiangli Yao, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Yangyang, wuthering_waves",
+      "tag_cn": "秧秧",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：秧秧（Yangyang, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Yangyang: Xuanling, wuthering_waves",
+      "tag_cn": "秧秧·玄翎",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：秧秧·玄翎（Yangyang: Xuanling, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Yinlin, wuthering_waves",
+      "tag_cn": "吟霖",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：吟霖（Yinlin, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Youhu, wuthering_waves",
+      "tag_cn": "釉瑚",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：釉瑚（Youhu, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "youhu \\(wuthering waves\\),thighlet,black bloomers,teapot lid hair ornament,tunic tucked into shorts,blue skirt"
+    },
+    {
+      "name": "Yuanwu, wuthering_waves",
+      "tag_cn": "渊武",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：渊武（Yuanwu, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/male",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Zani, wuthering_waves",
+      "tag_cn": "赞妮",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：赞妮（Zani, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false
+    },
+    {
+      "name": "Zhezhi, wuthering_waves",
+      "tag_cn": "折枝",
+      "confidence": "",
+      "tag_cn_long": "《鸣潮》角色提示词：折枝（Zhezhi, wuthering_waves）",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "zhezhi \\(wuthering waves\\),glasses, jewelry, long hair,  dress, pale pink eyes, turquoise highlightsearrings, white thighhighs, white pantyhose, twintails, chinese clothes, black footwear,two side up,dress,round eyewear,shoes,clothing cutout,white bow,"
+    },
+    {
+      "name": "phrolova \\(wuthering waves\\), 1girl, solo, long hair, jewelry, earrings, dress, bandages, red dress, bare shoulders, braid, detached collar, flower, ribbon,high heels",
+      "tag_cn": "弗洛洛",
+      "prompt": "phrolova \\(wuthering waves\\),  long hair, jewelry, earrings, dress, bandages, red dress, bare shoulders, braid, detached collar, flower, ribbon,high heels",
+      "tag_cn_long": "",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "carlotta \\(wuthering waves\\),, hairband, long hair, thighhighs, dress, green eyes, gloves, white dress, white hair, breasts, looking at viewer, earrings, jewelry, black gloves, medium breasts, ice, ahoge, bow,",
+      "tag_cn": "珂莱塔",
+      "prompt": "carlotta \\(wuthering waves\\), hairband, long hair, thighhighs, dress, green eyes, gloves, white dress, white hair, breasts, looking at viewer, earrings, jewelry, black gloves, medium breasts, ice, ahoge, bow,",
+      "tag_cn_long": "",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "female rover ,rover \\(wuthering waves\\), gloves, thighhighs, boots, breasts, thigh boots,black gloves, jewelry, black footwear, earrings, bare shoulders, dress, fingerless gloves, shorts, \nlong hanging front panel, knee-length,sleeveless, bandages, high heels",
+      "tag_cn": "女漂泊者",
+      "prompt": "female rover ,rover \\(wuthering waves\\), gloves, thighhighs, boots, breasts, thigh boots,black gloves, jewelry, black footwear, earrings, bare shoulders, dress, fingerless gloves, shorts, \nlong hanging front panel, knee-length,sleeveless, bandages, high heels",
+      "tag_cn_long": "",
+      "groups": [
+        "cg_preset_wuthering_waves"
+      ],
+      "groups_cn": [
+        "鸣潮"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    }
+  ],
+  "total_tags": 54,
+  "custom": true,
+  "display_mode": "preset_cards"
+}

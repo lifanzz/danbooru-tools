@@ -1,0 +1,20 @@
+# User-created runtime content is never part of a publication.
+**/data/
+**/config.json
+**/config.local.json
+**/manual_url_overrides.json
+**/__pycache__/
+*.py[cod]
+*.bak
+*.log
+*.tmp
+*.stage
+**/.venv/
+**/node_modules/
+**/bin/
+**/obj/
+**/backups/
+**/data_backup/
+**/gui-test-screenshots/
+**/test-artifacts/
+dist/

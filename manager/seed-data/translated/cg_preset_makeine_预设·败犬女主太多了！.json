@@ -1,0 +1,36 @@
+{
+  "group_name": "cg_preset_makeine",
+  "display_name": "败犬女主太多了！",
+  "source_url": "",
+  "url": "",
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    }
+  ],
+  "tags": [
+    {
+      "name": "外貌:\nanna yanami, yanami anna, medium hair, blue eyes, ahoge, blue hair, mature female, breasts, anime screencap\n服装:\nskirt, shirt, bow, school uniform, white shirt, short sleeves, pleated skirt, bowtie, yellow bow, grey skirt, yellow bowtie, blue bow, blue bowtie,",
+      "tag_cn": "八奈见杏菜(败犬女主太多了)",
+      "prompt": "外貌:\n yanami anna, medium hair, blue eyes, ahoge, blue hair, mature female, breasts, anime screencap\n服装:\nskirt, shirt, bow, school uniform, white shirt, short sleeves, pleated skirt, bowtie, yellow bow, grey skirt, yellow bowtie, blue bow, blue bowtie,",
+      "tag_cn_long": "",
+      "groups": [
+        "cg_preset_makeine"
+      ],
+      "groups_cn": [
+        "败犬女主太多了！"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    }
+  ],
+  "total_tags": 1,
+  "custom": true,
+  "display_mode": "preset_cards"
+}

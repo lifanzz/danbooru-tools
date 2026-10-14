@@ -1,0 +1,204 @@
+{
+  "group_name": "cg_sousou_no_frieren_characters",
+  "display_name": "葬送的芙莉莲",
+  "source_url": "https://danbooru.donmai.us/tags?search%5Bname_matches%5D=*sousou_no_frieren*",
+  "url": "",
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    }
+  ],
+  "tags": [
+    {
+      "name": "aura_(sousou_no_frieren)",
+      "tag_cn": "阿乌拉",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：阿乌拉（aura_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "aura \\(sousou no frieren\\), horns, braid, demon horns, demon girl, long hair, multiple braids, purple hair,\nelbow gloves, black gloves, dress, white skirt, capelet, thighhighs"
+    },
+    {
+      "name": "denken_(sousou_no_frieren)",
+      "tag_cn": "邓肯",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：邓肯（denken_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/denken_(sousou_no_frieren)",
+      "wiki_exists": false
+    },
+    {
+      "name": "eisen_(sousou_no_frieren)",
+      "tag_cn": "艾赞",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：艾赞（eisen_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/eisen_(sousou_no_frieren)",
+      "wiki_exists": false
+    },
+    {
+      "name": "fern_(sousou_no_frieren)",
+      "tag_cn": "菲伦",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：菲伦（fern_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "fern_\\(sousou_no_frieren\\), sousou_no_frieren,\n1girl,\nlong hair, purple hair, purple eyes, blunt bangs,\nblack long robe, long sleeves,\nwhite long dress, ankle-length dress,\npurple collar, purple neck ribbon,\nblack boots"
+    },
+    {
+      "name": "flamme_(sousou_no_frieren)",
+      "tag_cn": "芙兰梅",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：芙兰梅（flamme_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/flamme_(sousou_no_frieren)",
+      "wiki_exists": false
+    },
+    {
+      "name": "frieren",
+      "tag_cn": "芙莉莲",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：芙莉莲（frieren）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "",
+      "wiki_exists": false,
+      "prompt": "frieren, sousou_no_frieren,\n1girl, elf, pointy ears,\nlong hair, white hair, twintails, parted bangs,\ngreen eyes,\nteardrop earrings,\nwhite capelet, striped shirt, white skirt,\nblack pantyhose, boots,"
+    },
+    {
+      "name": "heiter",
+      "tag_cn": "海塔",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：海塔（heiter）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/heiter",
+      "wiki_exists": false
+    },
+    {
+      "name": "himmel_(sousou_no_frieren)",
+      "tag_cn": "欣梅尔",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：欣梅尔（himmel_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/himmel_(sousou_no_frieren)",
+      "wiki_exists": false
+    },
+    {
+      "name": "land_(sousou_no_frieren)",
+      "tag_cn": "兰特",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：兰特（land_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/land_(sousou_no_frieren)",
+      "wiki_exists": false
+    },
+    {
+      "name": "serie_(sousou_no_frieren)",
+      "tag_cn": "泽莉艾",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：泽莉艾（serie_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/serie_(sousou_no_frieren)",
+      "wiki_exists": false
+    },
+    {
+      "name": "stark_(sousou_no_frieren)",
+      "tag_cn": "修塔尔克",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：修塔尔克（stark_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/stark_(sousou_no_frieren)",
+      "wiki_exists": false
+    },
+    {
+      "name": "ubel_(sousou_no_frieren)",
+      "tag_cn": "尤贝尔",
+      "confidence": "",
+      "tag_cn_long": "《葬送的芙莉莲》人物提示词：尤贝尔（ubel_(sousou_no_frieren)）",
+      "groups": [
+        "cg_sousou_no_frieren_characters"
+      ],
+      "groups_cn": [
+        "葬送的芙莉莲"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/ubel_(sousou_no_frieren)",
+      "wiki_exists": false
+    }
+  ],
+  "total_tags": 12,
+  "custom": true,
+  "verification_note": "Tag spellings verified via Danbooru autocomplete (API itself returns HTTP 403 here); wiki_exists still unverified."
+}

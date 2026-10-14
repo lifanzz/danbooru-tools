@@ -1,0 +1,1142 @@
+{
+  "group_name": "cg_rezero_characters",
+  "display_name": "从零开始的异世界生活",
+  "source_url": "https://danbooru.donmai.us/tags?search%5Bname_matches%5D=*_%28re%3Azero%29",
+  "url": "",
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    }
+  ],
+  "tags": [
+    {
+      "name": "alcor_(re:zero)",
+      "tag_cn": "alcor",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：alcor（Danbooru 标签：alcor_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/alcor_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "aldebaran_(re:zero)",
+      "tag_cn": "阿尔迪巴兰",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：阿尔迪巴兰（Danbooru 标签：aldebaran_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/aldebaran_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "arakiya_(re:zero)",
+      "tag_cn": "arakiya",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：arakiya（Danbooru 标签：arakiya_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/arakiya_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "arch_(re:zero)",
+      "tag_cn": "arch",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：arch（Danbooru 标签：arch_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/arch_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "beatrice_(re:zero)",
+      "tag_cn": "碧翠丝",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：碧翠丝（Danbooru 标签：beatrice_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/beatrice_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "cain_(re:zero)",
+      "tag_cn": "cain",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：cain（Danbooru 标签：cain_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/cain_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "carmilla_(re:zero)",
+      "tag_cn": "卡蜜拉",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：卡蜜拉（Danbooru 标签：carmilla_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/carmilla_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "chin_(re:zero)",
+      "tag_cn": "chin",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：chin（Danbooru 标签：chin_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/chin_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "clind_(re:zero)",
+      "tag_cn": "clind",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：clind（Danbooru 标签：clind_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/clind_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "daphne_(re:zero)",
+      "tag_cn": "达芙妮",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：达芙妮（Danbooru 标签：daphne_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/daphne_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "dias_(re:zero)",
+      "tag_cn": "dias",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：dias（Danbooru 标签：dias_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/dias_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "dyne_(re:zero)",
+      "tag_cn": "dyne",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：dyne（Danbooru 标签：dyne_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/dyne_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "echidna_(re:zero)",
+      "tag_cn": "艾姬多娜",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：艾姬多娜（Danbooru 标签：echidna_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/echidna_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "felt_(re:zero)",
+      "tag_cn": "菲鲁特",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：菲鲁特（Danbooru 标签：felt_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/felt_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "fillole_(re:zero)",
+      "tag_cn": "fillole",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：fillole（Danbooru 标签：fillole_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/fillole_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "flugel_(re:zero)",
+      "tag_cn": "flugel",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：flugel（Danbooru 标签：flugel_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/flugel_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "fortuna_(re:zero)",
+      "tag_cn": "福尔图娜",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：福尔图娜（Danbooru 标签：fortuna_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/fortuna_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "hakugei_(re:zero)",
+      "tag_cn": "白鲸",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：白鲸（Danbooru 标签：hakugei_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/hakugei_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "halibel_(re:zero)",
+      "tag_cn": "halibel",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：halibel（Danbooru 标签：halibel_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/halibel_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "hector_(re:zero)",
+      "tag_cn": "hector",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：hector（Danbooru 标签：hector_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/hector_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "hiain_(re:zero)",
+      "tag_cn": "hiain",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：hiain（Danbooru 标签：hiain_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/hiain_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "idra_(re:zero)",
+      "tag_cn": "idra",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：idra（Danbooru 标签：idra_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/idra_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "iris_(re:zero)",
+      "tag_cn": "iris",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：iris（Danbooru 标签：iris_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/iris_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "jamal_(re:zero)",
+      "tag_cn": "jamal",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：jamal（Danbooru 标签：jamal_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/jamal_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "joseph_(re:zero)",
+      "tag_cn": "joseph",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：joseph（Danbooru 标签：joseph_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/joseph_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "juice_(re:zero)",
+      "tag_cn": "juice",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：juice（Danbooru 标签：juice_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/juice_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kan_(re:zero)",
+      "tag_cn": "kan",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：kan（Danbooru 标签：kan_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/kan_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kurgan_(re:zero)",
+      "tag_cn": "kurgan",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：kurgan（Danbooru 标签：kurgan_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/kurgan_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kurohebi_(re:zero)",
+      "tag_cn": "kurohebi",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：kurohebi（Danbooru 标签：kurohebi_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/kurohebi_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "lamia_(re:zero)",
+      "tag_cn": "lamia",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：lamia（Danbooru 标签：lamia_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/lamia_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "lucas_(re:zero)",
+      "tag_cn": "lucas",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：lucas（Danbooru 标签：lucas_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/lucas_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "lusbel_(re:zero)",
+      "tag_cn": "lusbel",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：lusbel（Danbooru 标签：lusbel_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/lusbel_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "lyra_(re:zero)",
+      "tag_cn": "lyra",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：lyra（Danbooru 标签：lyra_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/lyra_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "madelyn_(re:zero)",
+      "tag_cn": "madelyn",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：madelyn（Danbooru 标签：madelyn_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/madelyn_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "meina_(re:zero)",
+      "tag_cn": "meina",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：meina（Danbooru 标签：meina_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/meina_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "melinda_(re:zero)",
+      "tag_cn": "melinda",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：melinda（Danbooru 标签：melinda_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/melinda_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "mildo_(re:zero)",
+      "tag_cn": "mildo",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：mildo（Danbooru 标签：mildo_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/mildo_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "minerva_(re:zero)",
+      "tag_cn": "密涅瓦",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：密涅瓦（Danbooru 标签：minerva_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/minerva_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "miseruda_(re:zero)",
+      "tag_cn": "miseruda",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：miseruda（Danbooru 标签：miseruda_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/miseruda_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "oni_clan_chief_(re:zero)",
+      "tag_cn": "oni clan chief",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：oni clan chief（Danbooru 标签：oni_clan_chief_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/oni_clan_chief_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "oousagi_(re:zero)",
+      "tag_cn": "oousagi",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：oousagi（Danbooru 标签：oousagi_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/oousagi_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "palmyra_(re:zero)",
+      "tag_cn": "palmyra",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：palmyra（Danbooru 标签：palmyra_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/palmyra_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "pandora_(re:zero)",
+      "tag_cn": "潘多拉",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：潘多拉（Danbooru 标签：pandora_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/pandora_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "patrasche_(re:zero)",
+      "tag_cn": "帕特拉修",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：帕特拉修（Danbooru 标签：patrasche_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/patrasche_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "pooka_(re:zero)",
+      "tag_cn": "pooka",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：pooka（Danbooru 标签：pooka_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/pooka_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "puck_(re:zero)",
+      "tag_cn": "帕克",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：帕克（Danbooru 标签：puck_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/puck_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "quark_(re:zero)",
+      "tag_cn": "quark",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：quark（Danbooru 标签：quark_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/quark_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "ram_(re:zero)",
+      "tag_cn": "拉姆",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：拉姆（Danbooru 标签：ram_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/ram_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "reize_(re:zero)",
+      "tag_cn": "reize",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：reize（Danbooru 标签：reize_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/reize_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "rem_(re:zero)",
+      "tag_cn": "蕾姆",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：蕾姆（Danbooru 标签：rem_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/rem_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "rom_(re:zero)",
+      "tag_cn": "rom",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：rom（Danbooru 标签：rom_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/rom_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "satella_(re:zero)",
+      "tag_cn": "莎缇拉",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：莎缇拉（Danbooru 标签：satella_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/satella_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "schult_(re:zero)",
+      "tag_cn": "schult",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：schult（Danbooru 标签：schult_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/schult_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "sekhmet_(re:zero)",
+      "tag_cn": "sekhmet",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：sekhmet（Danbooru 标签：sekhmet_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/sekhmet_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "shaula_(re:zero)",
+      "tag_cn": "夏乌拉",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：夏乌拉（Danbooru 标签：shaula_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/shaula_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "shion_(re:zero)",
+      "tag_cn": "shion",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：shion（Danbooru 标签：shion_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/shion_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "sirius_(re:zero)",
+      "tag_cn": "sirius",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：sirius（Danbooru 标签：sirius_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/sirius_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "sphinx_(re:zero)",
+      "tag_cn": "sphinx",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：sphinx（Danbooru 标签：sphinx_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/sphinx_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "sylphy_(re:zero)",
+      "tag_cn": "sylphy",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：sylphy（Danbooru 标签：sylphy_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/sylphy_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "tanza_(re:zero)",
+      "tag_cn": "tanza",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：tanza（Danbooru 标签：tanza_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/tanza_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "tarco_(re:zero)",
+      "tag_cn": "tarco",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：tarco（Danbooru 标签：tarco_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/tarco_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "temae_(re:zero)",
+      "tag_cn": "temae",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：temae（Danbooru 标签：temae_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/temae_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "tina_(re:zero)",
+      "tag_cn": "tina",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：tina（Danbooru 标签：tina_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/tina_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "tisera_(re:zero)",
+      "tag_cn": "tisera",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：tisera（Danbooru 标签：tisera_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/tisera_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "ton_(re:zero)",
+      "tag_cn": "ton",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：ton（Danbooru 标签：ton_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/ton_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "typhon_(re:zero)",
+      "tag_cn": "提丰",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：提丰（Danbooru 标签：typhon_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/typhon_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "ubilk_(re:zero)",
+      "tag_cn": "ubilk",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：ubilk（Danbooru 标签：ubilk_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/ubilk_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "utakata_(re:zero)",
+      "tag_cn": "utakata",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：utakata（Danbooru 标签：utakata_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/utakata_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "valgren_(re:zero)",
+      "tag_cn": "valgren",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：valgren（Danbooru 标签：valgren_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/valgren_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "volcanica_(re:zero)",
+      "tag_cn": "volcanica",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：volcanica（Danbooru 标签：volcanica_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/volcanica_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "weitz_(re:zero)",
+      "tag_cn": "weitz",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：weitz（Danbooru 标签：weitz_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/weitz_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "wolf_(re:zero)",
+      "tag_cn": "wolf",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：wolf（Danbooru 标签：wolf_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/wolf_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "yoruna_mishigure_(re:zero)",
+      "tag_cn": "yoruna mishigure",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：yoruna mishigure（Danbooru 标签：yoruna_mishigure_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/yoruna_mishigure_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "zarestia_(re:zero)",
+      "tag_cn": "zarestia",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：zarestia（Danbooru 标签：zarestia_(re:zero)）",
+      "groups": [
+        "cg_rezero_characters"
+      ],
+      "groups_cn": [
+        "从零开始的异世界生活"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/zarestia_(re:zero)",
+      "wiki_exists": false
+    },
+    {
+      "name": "emilia_(re:zero)",
+      "tag_cn": "艾米莉娅 爱蜜莉雅",
+      "confidence": "",
+      "tag_cn_long": "《Re:从零开始的异世界生活》角色：艾米莉娅（Danbooru 标签：emilia_(re:zero)）",
+      "category_path": "__uncategorized__",
+      "groups_cn": [
+        "Re从零开始的异世界生活角色"
+      ],
+      "wiki_url": "/wiki_pages/emilia_(re:zero)",
+      "wiki_exists": true
+    }
+  ],
+  "total_tags": 75,
+  "custom": true
+}

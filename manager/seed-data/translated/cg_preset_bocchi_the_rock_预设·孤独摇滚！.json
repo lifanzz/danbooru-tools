@@ -1,0 +1,126 @@
+{
+  "group_name": "cg_preset_bocchi_the_rock",
+  "display_name": "孤独摇滚！",
+  "source_url": "",
+  "url": "",
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    }
+  ],
+  "tags": [
+    {
+      "name": "gotoh_hitori",
+      "tag_cn": "后藤一里·常服",
+      "prompt": "gotoh_hitori, bocchi_the_rock!, pink_hair, long_hair, blue_eyes, hair_between_eyes, cube_hair_ornament, pink_jacket, track_jacket, white_shirt, red_bow, black_pleated_skirt, black_skirt",
+      "tag_cn_long": "后藤一里常服：粉色长发、蓝眼、额前刘海与方块发饰；粉色运动夹克、白色衬衫、红色蝴蝶结、黑色百褶裙。",
+      "groups": [
+        "cg_preset_bocchi_the_rock"
+      ],
+      "groups_cn": [
+        "孤独摇滚！"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": true,
+      "wiki_url": "https://danbooru.donmai.us/posts?tags=gotoh_hitori"
+    },
+    {
+      "name": "ijichi_nijika",
+      "tag_cn": "伊地知虹夏·常服",
+      "prompt": "ijichi_nijika, bocchi_the_rock!, blonde hair,high side ponytail,ahoge,\nred eyes,\nschool uniform, white shirt, red bow, blue pleated skirt,",
+      "tag_cn_long": "伊地知虹夏常服：金色长发、红眼、额前刘海与发夹；白色衬衫、红色蝴蝶结、蓝色百褶裙校服。",
+      "groups": [
+        "cg_preset_bocchi_the_rock"
+      ],
+      "groups_cn": [
+        "孤独摇滚！"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "yamada_ryo",
+      "tag_cn": "山田凉·常服",
+      "prompt": "yamada_ryo, bocchi_the_rock!, blue_hair, short_hair, yellow_eyes, hair_between_eyes, parallel_hairclips, white_shirt, blue_necktie, blue_pleated_skirt, blue_skirt, school_uniform",
+      "tag_cn_long": "山田凉常服：蓝色短发、黄眼、额前刘海与平行发夹；白色衬衫、蓝色领带、蓝色百褶裙校服。",
+      "groups": [
+        "cg_preset_bocchi_the_rock"
+      ],
+      "groups_cn": [
+        "孤独摇滚！"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": true,
+      "wiki_url": "https://danbooru.donmai.us/posts?tags=yamada_ryo"
+    },
+    {
+      "name": "kita_ikuyo",
+      "tag_cn": "喜多郁代·常服",
+      "prompt": "kita_ikuyo, bocchi_the_rock!, red_hair, long_hair, green_eyes, hair_between_eyes, white_shirt, red_bow, black_pleated_skirt, black_skirt, school_uniform",
+      "tag_cn_long": "喜多郁代常服：红色长发、绿眼与额前刘海；白色衬衫、红色蝴蝶结、黑色百褶裙校服。",
+      "groups": [
+        "cg_preset_bocchi_the_rock"
+      ],
+      "groups_cn": [
+        "孤独摇滚！"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": true,
+      "wiki_url": "https://danbooru.donmai.us/posts?tags=kita_ikuyo"
+    },
+    {
+      "name": "hiroi_kikuri",
+      "tag_cn": "广井菊里·常服",
+      "prompt": "hiroi_kikuri, bocchi_the_rock!, purple_hair, long_hair, purple_eyes, blunt_bangs, hair_over_shoulder, hair_bow, black_bow, hanafuda_earrings, green_dress, black_jacket, bass_guitar",
+      "tag_cn_long": "广井菊里常服：紫色长发、紫眼、齐刘海、肩前发束、黑色发饰与花札耳环；绿色连衣裙、黑色夹克和贝斯。",
+      "groups": [
+        "cg_preset_bocchi_the_rock"
+      ],
+      "groups_cn": [
+        "孤独摇滚！"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": true,
+      "wiki_url": "https://danbooru.donmai.us/posts?tags=hiroi_kikuri"
+    },
+    {
+      "name": "ijichi_seika",
+      "tag_cn": "伊地知星歌·常服",
+      "prompt": "ijichi_seika, bocchi_the_rock!, blonde_hair, long_hair, red_eyes, hair_over_shoulder, black_shirt, black_jacket, black_pants, jacket",
+      "tag_cn_long": "伊地知星歌常服：金色长发、红眼、肩前发束；黑色衬衫、黑色夹克与黑色长裤。",
+      "groups": [
+        "cg_preset_bocchi_the_rock"
+      ],
+      "groups_cn": [
+        "孤独摇滚！"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": true,
+      "wiki_url": "https://danbooru.donmai.us/posts?tags=ijichi_seika"
+    },
+    {
+      "name": "pa-san",
+      "tag_cn": "PA小姐·常服",
+      "prompt": "pa-san, bocchi_the_rock!, black_hair, long_hair, purple_hair, multicolored_hair, colored_inner_hair, green_eyes, blunt_bangs, black_dress, black_jacket, earrings",
+      "tag_cn_long": "PA小姐常服：黑紫双色长发、彩色内层发、绿眼与齐刘海；黑色连衣裙、黑色夹克与耳环。",
+      "groups": [
+        "cg_preset_bocchi_the_rock"
+      ],
+      "groups_cn": [
+        "孤独摇滚！"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": true,
+      "wiki_url": "https://danbooru.donmai.us/posts?tags=pa-san"
+    }
+  ],
+  "total_tags": 7,
+  "custom": true,
+  "display_mode": "preset_cards"
+}

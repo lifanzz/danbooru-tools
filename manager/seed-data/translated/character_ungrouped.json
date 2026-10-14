@@ -1,0 +1,302 @@
+{
+  "group_name": "character_ungrouped",
+  "display_name": "未分类",
+  "tags": [
+    {
+      "name": "Lyria",
+      "tag_cn": "露莉亚",
+      "confidence": "",
+      "tag_cn_long": "碧蓝幻想中的蓝色长发女孩",
+      "category_path": "__uncategorized__",
+      "groups_cn": [
+        "未分类"
+      ],
+      "wiki_url": "",
+      "wiki_exists": false,
+      "groups": [
+        "character_ungrouped"
+      ]
+    },
+    {
+      "name": "Narmaya",
+      "tag_cn": "娜尔梅亚",
+      "confidence": "",
+      "tag_cn_long": "碧蓝幻想的奶刀,使用太刀的粉色长发巨乳女",
+      "category_path": "__uncategorized__",
+      "groups_cn": [
+        "未分类"
+      ],
+      "wiki_url": "",
+      "wiki_exists": false,
+      "groups": [
+        "character_ungrouped"
+      ]
+    },
+    {
+      "name": "Elma",
+      "tag_cn": "艾露玛(小林家的龙女仆)",
+      "confidence": "",
+      "tag_cn_long": "中 黑发 认真的女性",
+      "category_path": "__uncategorized__",
+      "groups_cn": [
+        "未分类"
+      ],
+      "wiki_url": "",
+      "wiki_exists": false,
+      "groups": [
+        "character_ungrouped"
+      ]
+    },
+    {
+      "name": "Quetzalcoatl",
+      "tag_cn": "露科亚（魁札尔科亚特尔）",
+      "confidence": "",
+      "tag_cn_long": "小林家的龙女仆中的巨乳绿毛大姐姐   baseball cap,",
+      "category_path": "__uncategorized__",
+      "groups_cn": [
+        "未分类"
+      ],
+      "wiki_url": "",
+      "wiki_exists": false,
+      "groups": [
+        "character_ungrouped"
+      ]
+    },
+    {
+      "name": "Tohru",
+      "tag_cn": "托尔",
+      "confidence": "",
+      "tag_cn_long": "小林家的龙女仆中的女仆",
+      "category_path": "__uncategorized__",
+      "groups_cn": [
+        "未分类"
+      ],
+      "wiki_url": "",
+      "wiki_exists": false,
+      "groups": [
+        "character_ungrouped"
+      ]
+    },
+    {
+      "name": "kal'tsit_\\(arknights\\)",
+      "tag_cn": "凯尔希",
+      "confidence": "",
+      "tag_cn_long": "一只老猞猁",
+      "category_path": "__uncategorized__",
+      "groups_cn": [
+        "未分类"
+      ],
+      "wiki_url": "",
+      "wiki_exists": false,
+      "groups": [
+        "character_ungrouped"
+      ]
+    },
+    {
+      "name": "ui(blue archive)",
+      "tag_cn": "古关忧",
+      "confidence": "A",
+      "tag_cn_long": "古关忧(蔚蓝档案)\nwhite serafuku,white long skirt,slippers,\n白色水手服,白色长裙,拖鞋",
+      "category_path": "__uncategorized__",
+      "groups_cn": [
+        "未分类"
+      ],
+      "wiki_url": "",
+      "wiki_exists": false,
+      "groups": [
+        "character_ungrouped"
+      ]
+    },
+    {
+      "name": "kokkoro (princess connect!), short hair,  silver hair, red eyes, antenna hair, bangs, hair between eyes, pointy ears, elf, hair flower, white flower, hair ornament, petite, green dress, sleeveless dress, bare shoulders, single bare shoulder, detached sleeves, see-through sleeves, green sleeves, bridal gauntlets, frills",
+      "tag_cn": "可可萝",
+      "prompt": "1girl, kokkoro \\(princess connect!\\), short hair, silver hair, red eyes, antenna hair, bangs, pointy ears, elf, white flower, petite, green dress, sleeveless dress, single bare shoulder, detached sleeves, see-through sleeves, bridal gauntlets, frills",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "1girl, sonetto (reverse1999), long hair, orange hair, green eyes, bangs, two side up, side braid, hair ornament, white dress, white uniform, grey capelet, white gloves, long sleeves, black and white checkered cuffs, white pantyhose, white boots, holding pen",
+      "tag_cn": "十四行诗(重返未来1999)",
+      "prompt": "1girl, sonetto \\(reverse:1999\\), long hair, orange hair, green eyes, bangs, two side up, side braid, hair ornament, white dress, white uniform, grey capelet, white gloves, long sleeves, black and white checkered cuffs, white pantyhose, white boots,",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "1girl, 37 (reverse1999), very long hair, blue hair, light blue hair, blue eyes, hair between eyes, hair ornament, pale skin, petite, white dress, toga, ancient greek clothes, bare shoulders, gold choker, gold trim, sandals",
+      "tag_cn": "37(十四行诗)",
+      "prompt": "1girl, 37 \\(reverse:1999\\), very long hair, blue hair, light blue hair, blue eyes, hair between eyes, hair ornament, pale skin, petite, white dress, toga, ancient greek clothes, bare shoulders, gold choker, gold trim, sandals",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "1girl, regulus (reverse1999), short hair, brown hair, brown eyes, bangs, cabbie hat, white headwear, sunglasses, black sunglasses, red jacket, open jacket, puffy long sleeves, blue dress, short dress, blue neckerchief, polka dot neckerchief, black pantyhose, red socks, wristwatch",
+      "tag_cn": "星锑(重返未来1999)",
+      "prompt": "1girl, regulus \\(reverse:1999\\), short hair, brown hair, brown eyes, bangs, cabbie hat, white headwear, sunglasses, black sunglasses, red jacket, open jacket, puffy long sleeves, blue dress, short dress, blue neckerchief, polka dot neckerchief, black pantyhose, red socks, wristwatch",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "1girl, schneider (reverse1999), short hair, black hair, red eyes, bangs, pale skin, petite, red dress, feather dress, red feathers, feather trim, strapless dress, bare shoulders, black elbow gloves, black thighhighs, high heels, necklace",
+      "tag_cn": "施奈德(重返未来1999)",
+      "prompt": "1girl, schneider \\(reverse:1999\\), short hair, black hair, red eyes, bangs, pale skin, petite, red dress, feather dress, red feathers, feather trim, strapless dress, bare shoulders, black elbow gloves, black thighhighs, high heels, necklace",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "Reverse1999_Sonetto_Parade_Anthem, green eyes, long curled red hair, 1girl, white headwear, dress, white dress, sleeveless dress, white gloves, elbow gloves, sleeveless, shoulder sash, sash, yellow sash, boots, white pantyhose, (staff, holding staff)",
+      "tag_cn": "十四行诗lora",
+      "prompt": "Reverse1999_Sonetto_Parade_Anthem, green eyes, long curled red hair, 1girl, white headwear, dress, white dress, sleeveless dress, white gloves, elbow gloves, sleeveless, shoulder sash, sash, yellow sash, boots, white pantyhose, (staff, holding staff)",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "Reverse1999_37_Default, green eyes, long wavy blue hair, 1girl, hairband, dress, white dress, gold choker, jewelry, bracelet, barefoot, anklet",
+      "tag_cn": "37lora",
+      "prompt": "Reverse1999_37_Default, green eyes, long wavy blue hair, 1girl, hairband, dress, white dress, gold choker, jewelry, bracelet, barefoot, anklet",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "1girl, vertin (reverse1999), short hair,  grey-green hair, green eyes,  single side bun, bangs, top hat, blue hat, hat ribbon, navy blue coat, long coat, blue trim, long sleeves, white shirt, frilled shirt, ascot, blue brooch, waistcoat, black pants, black boots",
+      "tag_cn": "维尔汀(重返未来1999)",
+      "prompt": "1girl, vertin \\(reverse:1999\\), short hair,  grey-green hair, green eyes,  single side bun, bangs, top hat, blue hat, hat ribbon, navy blue coat, long coat, blue trim, long sleeves, white shirt, frilled shirt, ascot, blue brooch, waistcoat, black pants, black boots",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "1girl, perlica (arknights), long hair, light brown hair, grey hair, blunt bangs, blue eyes, yellow pupils, bird ears, feathered ears, pale skin, white sleeveless dress, high belt, white jacket, off shoulder jacket, oversized jacket, black gloves, black pantyhose, black boots, pouch",
+      "tag_cn": "佩丽卡(明日方舟终末地)",
+      "prompt": "1girl, perlica \\(arknights\\), long hair, light brown hair, grey hair, blunt bangs, blue eyes, yellow pupils, bird ears, feathered ears, pale skin, white sleeveless dress, high belt, white jacket, off shoulder jacket, oversized jacket, black gloves, black pantyhose, black boots, pouch",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "matilda bouanich \\(reverse:1999\\)",
+      "tag_cn": "玛蒂尔达(重返未来:1999)",
+      "prompt": "matilda bouanich \\(reverse:1999\\)",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "matilda bouanich \\(reverse:1999\\),blonde hair, blue eyes, one side up,solid blue hairband,  white collared shirt, long sleeves, red necktie, grey vest, grey jacket,white socks, loafers, \nskirt,white Frilled sleeves,",
+      "tag_cn": "玛蒂尔达(重返未来1999)",
+      "prompt": "matilda bouanich \\(reverse:1999\\),blonde hair, blue eyes, one side up,solid blue hairband,  white collared shirt, long sleeves, red necktie, grey vest, grey jacket,white socks, loafers, \nskirt,white Frilled sleeves,",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "1girl, reisalin stout \\(atelier ryza\\), short brown hair, bangs, brown eyes, large breasts, thick thighs, curvy, white beret, black hair ribbon, hairclip, star necklace, white sleeveless shirt, cleavage, yellow sleeveless jacket, detached sleeves, bare shoulders, navel, red short shorts, brown leather belt, blue belt, thigh pouch, single brown leather glove, white thighhighs, brown lace-up thigh boots, toeless footwear,",
+      "tag_cn": "莱莎(莱莎的炼金工坊)",
+      "prompt": "1girl, reisalin stout \\(atelier ryza\\), short brown hair, bangs, brown eyes, large breasts, thick thighs, curvy, white beret, black hair ribbon, hairclip, star necklace, white sleeveless shirt, cleavage, yellow sleeveless jacket, detached sleeves, bare shoulders, navel, red short shorts, brown leather belt, blue belt, thigh pouch, single brown leather glove, white thighhighs, brown lace-up thigh boots, toeless footwear,",
+      "tag_cn_long": "",
+      "groups": [
+        "character_ungrouped"
+      ],
+      "groups_cn": [
+        "未分类"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    }
+  ],
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    }
+  ],
+  "total_tags": 19
+}

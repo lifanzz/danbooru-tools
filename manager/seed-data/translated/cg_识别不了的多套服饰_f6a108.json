@@ -1,0 +1,675 @@
+{
+  "group_name": "cg_识别不了的多套服饰_f6a108",
+  "display_name": "识别不了的多套服饰",
+  "tags": [
+    {
+      "name": "amiya_(act_ii)_(arknights)",
+      "tag_cn": "阿米娅（act ii）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(act_ii)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(act_ii)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(ambience_synesthesia_2021)_(arknights)",
+      "tag_cn": "阿米娅（音律联觉）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(ambience_synesthesia_2021)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(ambience_synesthesia_2021)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(ambience_synesthesia_2022)_(arknights)",
+      "tag_cn": "阿米娅（音律联觉）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(ambience_synesthesia_2022)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(ambience_synesthesia_2022)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(ambience_synesthesia_2025)_(arknights)",
+      "tag_cn": "阿米娅（音律联觉）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(ambience_synesthesia_2025)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(ambience_synesthesia_2025)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(ambience_synesthesia_2026)_(arknights)",
+      "tag_cn": "阿米娅（音律联觉）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(ambience_synesthesia_2026)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(ambience_synesthesia_2026)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(demon_king)_(arknights)",
+      "tag_cn": "魔王阿米娅（demon king）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(demon_king)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(demon_king)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(fresh_fastener)_(arknights)",
+      "tag_cn": "阿米娅（见习联结者）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(fresh_fastener)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(fresh_fastener)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(guard)_(arknights)",
+      "tag_cn": "阿米娅（guard）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(guard)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(guard)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(guard)_(in_a_myriad_of_universes)_(arknights)",
+      "tag_cn": "阿米娅（guard) (in a myriad of universes）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(guard)_(in_a_myriad_of_universes)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(guard)_(in_a_myriad_of_universes)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(guard)_(touch_the_stars)_(arknights)",
+      "tag_cn": "阿米娅（guard) (touch the stars）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(guard)_(touch_the_stars)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(guard)_(touch_the_stars)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(medic)_(arknights)",
+      "tag_cn": "阿米娅（medic）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(medic)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(medic)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(medic)_(solo_around_the_world)_(arknights)",
+      "tag_cn": "阿米娅（medic) (solo around the world）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(medic)_(solo_around_the_world)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(medic)_(solo_around_the_world)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(medic)_(the_unbounded_folio)_(arknights)",
+      "tag_cn": "阿米娅（medic) (the unbounded folio）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(medic)_(the_unbounded_folio)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(medic)_(the_unbounded_folio)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(newsgirl)_(arknights)",
+      "tag_cn": "阿米娅（报童）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(newsgirl)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(newsgirl)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(seedsower)_(arknights)",
+      "tag_cn": "阿米娅（播种者）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(seedsower)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(seedsower)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(summer)_(arknights)",
+      "tag_cn": "阿米娅（summer）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(summer)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(summer)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(wilderness_moments)_(arknights)",
+      "tag_cn": "阿米娅（wilderness moments）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(wilderness_moments)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(wilderness_moments)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "amiya_(young)_(arknights)",
+      "tag_cn": "阿米娅（young）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：amiya_(young)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/amiya_(young)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_(advisor)_(arknights)",
+      "tag_cn": "凯尔希（advisor）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_(advisor)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_(advisor)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_(ambience_synesthesia_2024)_(arknights)",
+      "tag_cn": "凯尔希（音律联觉）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_(ambience_synesthesia_2024)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_(ambience_synesthesia_2024)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_(boss)_(arknights)",
+      "tag_cn": "凯尔希（boss）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_(boss)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_(boss)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_(formal)_(arknights)",
+      "tag_cn": "凯尔希（formal）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_(formal)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_(formal)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_(king_of_purrkatz)_(arknights)",
+      "tag_cn": "凯尔希（king of purrkatz）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_(king_of_purrkatz)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_(king_of_purrkatz)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_(maid)_(arknights)",
+      "tag_cn": "凯尔希（maid）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_(maid)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_(maid)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_(puppet)_(arknights)",
+      "tag_cn": "凯尔希（puppet）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_(puppet)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_(puppet)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_(remnant)_(arknights)",
+      "tag_cn": "凯尔希（残余）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_(remnant)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_(remnant)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_(the_remains_of_time)_(arknights)",
+      "tag_cn": "凯尔希（时遗）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_(the_remains_of_time)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_(the_remains_of_time)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_esperanta_(arknights)",
+      "tag_cn": "凯尔希·思衡托",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_esperanta_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_esperanta_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "kal'tsit_esperanta_(the_unbounded_folio)_(arknights)",
+      "tag_cn": "凯尔希·思衡托（the unbounded folio）",
+      "confidence": "",
+      "tag_cn_long": "明日方舟角色标签。Danbooru 原始提示词：kal'tsit_esperanta_(the_unbounded_folio)_(arknights)",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "/wiki_pages/kal'tsit_esperanta_(the_unbounded_folio)_(arknights)",
+      "wiki_exists": false
+    },
+    {
+      "name": "robin_(brilliant_youth)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（brilliant youth）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28brilliant_youth%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(charmony_kitty)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（charmony kitty）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28charmony_kitty%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(colors)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（colors）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28colors%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(concert_for_two)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（concert for two）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28concert_for_two%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(fanta)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（fanta）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28fanta%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(girls'_dormitory)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（girls' dormitory）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28girls%27_dormitory%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(little_cat)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（little cat）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28little_cat%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(on_the_journey)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（on the journey）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28on_the_journey%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(origami_big_bird)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（origami big bird）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28origami_big_bird%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(robird)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（robird）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28robird%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(star_rail_live_2024)_(honkai:_star_rail)",
+      "tag_cn": "知更鳥（star rail live 2024）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28star_rail_live_2024%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "robin_(summeretto)_(honkai:_star_rail)",
+      "tag_cn": "知更鸟（summeretto）",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "sex/female",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/robin_%28summeretto%29_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    },
+    {
+      "name": "sunday_and_robin's_mother_(honkai:_star_rail)",
+      "tag_cn": "sunday and robin's mother",
+      "confidence": "A",
+      "tag_cn_long": "Danbooru 已验证的《崩坏：星穹铁道》角色标签。",
+      "groups": [
+        "cg_识别不了的多套服饰_f6a108"
+      ],
+      "groups_cn": [
+        "识别不了的多套服饰"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "https://danbooru.donmai.us/wiki_pages/sunday_and_robin%27s_mother_%28honkai%3A_star_rail%29",
+      "wiki_exists": true
+    }
+  ],
+  "categories": [
+    {
+      "path": "category_3ff16e428125",
+      "h4": "amiya",
+      "h5": null,
+      "name_cn": "阿米娅",
+      "name_en": "amiya"
+    },
+    {
+      "path": "category_c02c0acfe2f4",
+      "h4": "kaierxi",
+      "h5": null,
+      "name_cn": "凯尔希",
+      "name_en": "kaierxi"
+    },
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    },
+    {
+      "path": "sex/female",
+      "h4": "角色性别",
+      "h5": "女性角色",
+      "name_cn": "女性角色",
+      "name_en": "Female characters"
+    },
+    {
+      "path": "sex/male",
+      "h4": "角色性别",
+      "h5": "男性角色",
+      "name_cn": "男性角色",
+      "name_en": "Male characters"
+    }
+  ],
+  "total_tags": 42
+}

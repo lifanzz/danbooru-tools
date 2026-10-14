@@ -1,0 +1,20 @@
+{
+  "group_name": "cg_preset_monica",
+  "display_name": "沉默魔女的秘密",
+  "source_url": "",
+  "url": "",
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    }
+  ],
+  "tags": [],
+  "total_tags": 0,
+  "custom": true,
+  "display_mode": "preset_cards"
+}

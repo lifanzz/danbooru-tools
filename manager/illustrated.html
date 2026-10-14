@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>图文笔记 · Danbooru</title>
+<link rel="icon" type="image/x-icon" href="assets/danbooru.ico">
+<link rel="stylesheet" href="assets/style.css"><link rel="stylesheet" href="assets/navigation.css"><link rel="stylesheet" href="assets/illustrated-notes.css">
+</head>
+<body class="illustrated-page" data-page="illustrated">
+<header class="header">
+  <div class="app-navigation-row"><span class="app-brand">Danbooru</span><nav class="app-navigation" id="appNavigation" aria-label="主要页面"></nav></div>
+  <div class="page-header-actions"><button class="model-nav-btn" id="pictureSidebarToggle" aria-label="收起分组栏">‹</button><span class="picture-page-title">图文笔记</span><button class="btn-primary" id="newPictureNote">+ 新建图文笔记</button><div class="search-box"><span class="search-icon">⌕</span><input id="pictureSearch" placeholder="搜索标题或笔记内容…" autocomplete="off"></div><span id="pictureCount" class="picture-count"></span><label class="picture-card-size">卡片大小<input type="range" id="pictureCardSize" min="70" max="140" step="5" value="100" aria-label="卡片大小"><output id="pictureCardSizeValue" for="pictureCardSize">100%</output></label></div>
+</header>
+<main class="picture-layout">
+  <aside class="picture-sidebar" id="pictureSidebar"><div class="picture-side-heading"><span>笔记分组</span><button class="picture-icon-btn" id="newPictureGroup" aria-label="新建分组" title="新建分组">+</button></div><input class="form-input picture-group-search" id="pictureGroupSearch" placeholder="筛选分组…"><div id="pictureGroups" class="picture-groups"></div></aside>
+  <section class="picture-main" id="pictureMain"><div class="picture-library-heading"><h1 id="pictureGroupTitle">全部图文笔记</h1><span id="pictureStatus" role="status">正在读取…</span></div><div class="picture-cards" id="pictureCards"></div><div class="picture-empty" id="pictureEmpty" hidden><h2>把图片和想法放在一起</h2><p>新建一张图文笔记，左边放图片，右边记录灵感、观察或创作过程。</p><button class="btn-primary" id="newPictureNoteEmpty">+ 新建图文笔记</button></div></section>
+</main>
+<dialog class="picture-editor" id="pictureEditor" aria-labelledby="pictureEditorHeading">
+  <form id="pictureForm">
+    <div class="picture-editor-heading"><h2 id="pictureEditorHeading">新建图文笔记</h2><button type="button" class="picture-icon-btn" id="closePictureEditor" aria-label="关闭编辑器">×</button></div>
+    <div class="picture-editor-meta"><label>标题<input class="form-input" id="pictureTitle" maxlength="200" required placeholder="给这张笔记起一个标题"></label><label>分组<select class="form-input" id="pictureGroup"></select></label></div>
+    <div class="picture-editor-body"><div class="picture-image-editor"><div class="picture-image-list" id="pictureImageList"></div><button type="button" class="picture-image-drop" id="pictureDrop"><span id="pictureImageHint">点击添加图片<br><small>支持多选、拖入多张图片，或 Ctrl+V 粘贴</small></span></button><input type="file" id="pictureFile" accept="image/png,image/jpeg,image/gif,image/webp" multiple hidden></div><label class="picture-body-label">笔记<textarea class="form-input" id="pictureBody" placeholder="写下你的想法、画面观察或创作记录…" maxlength="500000"></textarea></label></div>
+    <div class="picture-editor-footer"><span id="pictureEditorStatus" role="status"></span><button type="button" class="btn-secondary" id="cancelPictureEditor">取消</button><button type="submit" class="btn-primary" id="savePictureNote">保存笔记</button></div>
+  </form>
+</dialog>
+<dialog class="picture-small-dialog" id="pictureGroupDialog" aria-labelledby="pictureGroupHeading"><form id="pictureGroupForm"><h2 id="pictureGroupHeading">新建文件夹</h2><input class="form-input" id="pictureGroupName" placeholder="文件夹名称" maxlength="80" required><label class="picture-parent-label" id="pictureGroupParentLabel">所在文件夹<select class="form-input" id="pictureGroupParent"></select></label><p class="picture-form-error" id="pictureGroupError" role="alert"></p><div class="picture-dialog-actions"><button type="button" class="btn-secondary" id="cancelPictureGroup">取消</button><button class="btn-primary" type="submit">保存文件夹</button></div></form></dialog>
+<dialog class="picture-small-dialog" id="pictureUnsaved" aria-labelledby="pictureUnsavedHeading"><h2 id="pictureUnsavedHeading">保存笔记修改？</h2><p>当前笔记有未保存修改。</p><div class="picture-dialog-actions"><button class="btn-secondary" id="discardPictureDraft">放弃修改</button><button class="btn-secondary" id="continuePictureDraft">继续编辑</button><button class="btn-primary" id="savePictureDraft">保存并继续</button></div></dialog>
+<dialog class="picture-lightbox" id="pictureLightbox"><button class="picture-icon-btn" id="closePictureLightbox" aria-label="关闭大图">×</button><img id="pictureLightboxImage" alt="笔记大图"><div class="picture-lightbox-navigation" id="pictureLightboxNavigation"><button class="btn-secondary" id="previousPictureImage">上一张</button><span id="pictureLightboxCount"></span><button class="btn-secondary" id="nextPictureImage">下一张</button></div><div class="picture-lightbox-edit" id="pictureLightboxEdit" hidden><span>删除将在保存笔记后生效</span><button type="button" class="btn-secondary picture-delete-image" id="deletePreviewImage">删除图片</button></div></dialog>
+<script src="assets/navigation.js"></script><script src="assets/illustrated-notes.js"></script>
+</body></html>

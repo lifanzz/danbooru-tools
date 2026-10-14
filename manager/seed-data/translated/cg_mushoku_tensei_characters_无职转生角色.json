@@ -1,0 +1,441 @@
+{
+  "group_name": "cg_mushoku_tensei_characters",
+  "display_name": "无职转生",
+  "source_url": "https://danbooru.donmai.us/tags?search%5Bname_matches%5D=*_mushoku_tensei",
+  "url": "",
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    }
+  ],
+  "tags": [
+    {
+      "name": "ariel_anemoi_asura",
+      "tag_cn": "爱丽儿·阿涅莫伊·阿斯拉",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：爱丽儿·阿涅莫伊·阿斯拉（ariel_anemoi_asura）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/ariel_anemoi_asura",
+      "wiki_exists": false
+    },
+    {
+      "name": "cliff_grimoire",
+      "tag_cn": "克里夫·格里莫尔",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：克里夫·格里莫尔（cliff_grimoire）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/cliff_grimoire",
+      "wiki_exists": false
+    },
+    {
+      "name": "elinalise_dragonroad",
+      "tag_cn": "艾莉娜丽洁·杜拉冈罗德",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：艾莉娜丽洁·杜拉冈罗德（elinalise_dragonroad）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/elinalise_dragonroad",
+      "wiki_exists": false
+    },
+    {
+      "name": "eris_boreas_greyrat",
+      "tag_cn": "艾莉丝·伯雷亚斯·格雷拉特",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：艾莉丝·伯雷亚斯·格雷拉特（eris_boreas_greyrat）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/eris_boreas_greyrat",
+      "wiki_exists": false
+    },
+    {
+      "name": "ghislaine_dedoldia",
+      "tag_cn": "基列奴·德德路迪亚",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：基列奴·德德路迪亚（ghislaine_dedoldia）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/ghislaine_dedoldia",
+      "wiki_exists": false
+    },
+    {
+      "name": "kishirika_kishirisu",
+      "tag_cn": "琪希莉卡·琪希里斯",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：琪希莉卡·琪希里斯（kishirika_kishirisu）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/kishirika_kishirisu",
+      "wiki_exists": false
+    },
+    {
+      "name": "lilia_(mushoku_tensei)",
+      "tag_cn": "莉莉雅",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：莉莉雅（lilia_(mushoku_tensei)）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/lilia_(mushoku_tensei)",
+      "wiki_exists": false
+    },
+    {
+      "name": "luke_notos_greyrat",
+      "tag_cn": "卢克·诺托斯·格雷拉特",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：卢克·诺托斯·格雷拉特（luke_notos_greyrat）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/luke_notos_greyrat",
+      "wiki_exists": false
+    },
+    {
+      "name": "nanahoshi_shizuka",
+      "tag_cn": "七星静香",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：七星静香（nanahoshi_shizuka）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/nanahoshi_shizuka",
+      "wiki_exists": false
+    },
+    {
+      "name": "orsted_(mushoku_tensei)",
+      "tag_cn": "奥尔斯帝德",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：奥尔斯帝德（orsted_(mushoku_tensei)）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/orsted_(mushoku_tensei)",
+      "wiki_exists": false
+    },
+    {
+      "name": "paul_greyrat",
+      "tag_cn": "保罗·格雷拉特",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：保罗·格雷拉特（paul_greyrat）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/paul_greyrat",
+      "wiki_exists": false
+    },
+    {
+      "name": "pursena_adoldia",
+      "tag_cn": "普露塞娜·阿多鲁迪亚",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：普露塞娜·阿多鲁迪亚（pursena_adoldia）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/pursena_adoldia",
+      "wiki_exists": false
+    },
+    {
+      "name": "rinia_dedorudia",
+      "tag_cn": "莉妮娅·德多鲁迪亚",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：莉妮娅·德多鲁迪亚（rinia_dedorudia）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/rinia_dedorudia",
+      "wiki_exists": false
+    },
+    {
+      "name": "rudeus_greyrat",
+      "tag_cn": "鲁迪乌斯·格雷拉特",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：鲁迪乌斯·格雷拉特（rudeus_greyrat）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/rudeus_greyrat",
+      "wiki_exists": false
+    },
+    {
+      "name": "ruijerd_superdia",
+      "tag_cn": "瑞杰路德·斯佩路迪",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：瑞杰路德·斯佩路迪（ruijerd_superdia）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/ruijerd_superdia",
+      "wiki_exists": false
+    },
+    {
+      "name": "sylphiette",
+      "tag_cn": "希露菲叶特",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：希露菲叶特（sylphiette）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/sylphiette",
+      "wiki_exists": false
+    },
+    {
+      "name": "zanoba_shirone",
+      "tag_cn": "札诺巴·希隆",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：札诺巴·希隆（zanoba_shirone）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/zanoba_shirone",
+      "wiki_exists": false
+    },
+    {
+      "name": "zenith_greyrat",
+      "tag_cn": "塞妮丝·格雷拉特",
+      "confidence": "",
+      "tag_cn_long": "《无职转生》人物提示词：塞妮丝·格雷拉特（zenith_greyrat）",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_url": "/wiki_pages/zenith_greyrat",
+      "wiki_exists": false
+    },
+    {
+      "name": "mt_aisha_greyrat",
+      "tag_cn": "爱夏·格雷拉特",
+      "prompt": "mushoku_tensei, aisha_greyrat, aisha, 1girl, magenta_hair, pink_hair, high_ponytail, ponytail, hair_up, short_hair, green_eyes, freckles, young, maid, white_headband, black_dress, white_apron, white_bow, collared_shirt,",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "mt_elinalise_dragonroad",
+      "tag_cn": "艾莉娜丽洁·龙路德",
+      "prompt": "mushoku_tensei, elinalise_dragonroad, elinalise, 1girl, blonde_hair, long_hair, braid, amber_eyes, elf, pointed_ears, large_breasts, adventurer, red_vest, white_blouse, brown_cloak, puffy_sleeves,",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "mt_eris_boreas_greyrat",
+      "tag_cn": "艾莉丝·伯雷亚斯·格雷拉特",
+      "prompt": "mushoku_tensei, eris_boreas_greyrat, eris, 1girl, red_hair, crimson_hair, long_hair, red_eyes, adult, swordswoman, fiery, white_headband, white_coat, fur_trim, winter_clothes,",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "mt_ghislaine_dedoldia",
+      "tag_cn": "基列奴·德多路迪亚",
+      "prompt": "mushoku_tensei, ghislaine_dedoldia, ghislaine, 1girl, dark_skin, beastkin, beast_race, silver_hair, white_hair, long_hair, eyepatch, right_eyepatch, eyepatch_on_right_eye, covered_right_eye, right_eye_covered, one_eye, muscular_female, swordswoman, scar, animal_ears, wolf_ears, red_eye, serious_expression, closed_mouth, red_choker, red_bandeau, minimal_top, open_cloak, white_fur_trim, olive_pants, patterned_belt, red_white_belt, abs, star_scar, large_breasts,",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "mt_hilda_boreas_greyrat",
+      "tag_cn": "希尔达·伯雷亚斯·格雷拉特",
+      "prompt": "mushoku_tensei, hilda_boreas, hilda_boreas_greyrat, hilda, 1girl, red_hair, crimson_hair, long_hair, red_eyes, noble, mother, adult, black_gold_headpiece, pearl_earrings, pearl_necklace, green_gem_pendant, serious_expression, furrowed_brows, stern_gaze, closed_mouth, looking_to_the_side, off_shoulder_dress, cream_bodice, brown_and_maroon_colorblock_dress, deep_cleavage, brown_draped_sleeves",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "mt_lilia_greyrat",
+      "tag_cn": "莉莉雅·格雷拉特",
+      "prompt": "mushoku_tensei, lilia, lilia_greyrat, 1girl, magenta_hair, pink_hair, long_hair, brown_eyes, maid, adult, side_part, black_ribbon, purple_eyes, glasses, thin_rimmed_round_glasses, surprised_expression, open_mouth, teeth, sweat_drop, blush, looking_up, black_high_collar, black_top,",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "mt_norn_greyrat",
+      "tag_cn": "诺伦·格雷拉特",
+      "prompt": "1girl,norn_greyrat\\(mushoku_tensei\\), blonde_hair, short_hair, bangs, ahoge, green_eyes,   beauty_mark, low ponytail,school uniform",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "mt_paul_greyrat",
+      "tag_cn": "保罗·格雷拉特",
+      "prompt": "mushoku_tensei, paul_greyrat, paul, 1boy, brown_hair, green_eyes, scar, swordsman, adult, light_brown_hair, ponytail, braid, forehead_scar, looking_to_the_side, closed_mouth, standing, full_body, hand_up, open_hand, green_cloak, hooded_cloak, white_cross_pattern, red_lining, straps, buckles, black_shirt, white_stripe, white_pants, brown_belt, knee_pads, white_boots, gauntlets, gloves,",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "mt_roxy_migurdia",
+      "tag_cn": "洛琪希·米格路迪亚",
+      "prompt": "roxy_migurdia\\(mushoku_tensei\\), 1girl, blue_hair, long_hair, blue_eyes, migurd, short_stature, petite, mage, witch_hat, brown_cloak, white_trim, white_blouse, black_dress, blue_straps, black_skirt, black_belt, holding_staff, staff, magic_staff, aqua_hartia, blue_orb, claw_staff,",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "mt_rudeus_greyrat",
+      "tag_cn": "鲁迪乌斯·格雷拉特",
+      "prompt": "mushoku_tensei, rudeus_greyrat, rudeus, 1boy, brown_hair, green_eyes, adult, mage, short_hair, light_brown_hair, open_mouth, surprised, looking_at_viewer, arm_outstretched, hand_up, holding_sash, gray_robe, hooded_robe, hood_down, white_sash, geometric_patterns, silver_clasps,",
+      "tag_cn_long": "无职转生角色预设：角色外貌与常见服饰会一并复制。",
+      "groups": [
+        "cg_mushoku_tensei_characters"
+      ],
+      "groups_cn": [
+        "无职转生"
+      ],
+      "category_path": "__uncategorized__",
+      "wiki_exists": false,
+      "wiki_url": ""
+    }
+  ],
+  "total_tags": 28,
+  "custom": true,
+  "verification_note": "Seeded locally because Danbooru API returned HTTP 403; verify names when API access is restored."
+}

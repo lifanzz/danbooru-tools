@@ -1,0 +1,3699 @@
+[
+  {
+    "id": "accessories",
+    "name_cn": "配饰",
+    "name_en": "accessories",
+    "display_name": "配饰",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "By body part",
+        "h5": "Head",
+        "path": "By body part/Head",
+        "name_cn": "头部",
+        "name_en": "Head"
+      },
+      {
+        "h4": "By body part",
+        "h5": "Neck",
+        "path": "By body part/Neck",
+        "name_cn": "颈部",
+        "name_en": "Neck"
+      },
+      {
+        "h4": "By body part",
+        "h5": "Arms",
+        "path": "By body part/Arms",
+        "name_cn": "手臂",
+        "name_en": "Arms"
+      },
+      {
+        "h4": "By body part",
+        "h5": "Legs",
+        "path": "By body part/Legs",
+        "name_cn": "腿部",
+        "name_en": "Legs"
+      },
+      {
+        "h4": "By body part",
+        "h5": "Torso",
+        "path": "By body part/Torso",
+        "name_cn": "躯干",
+        "name_en": "Torso"
+      },
+      {
+        "h4": "Bags",
+        "h5": null,
+        "path": "Bags",
+        "name_cn": "包袋",
+        "name_en": "Bags"
+      },
+      {
+        "h4": "Decorations",
+        "h5": null,
+        "path": "Decorations",
+        "name_cn": "装饰",
+        "name_en": "Decorations"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aaccessories",
+    "source_url": "/wiki_pages/tag_group%3Aaccessories",
+    "html_file": "tag_group_accessories.html"
+  },
+  {
+    "id": "ass",
+    "name_cn": "臀部",
+    "name_en": "ass",
+    "display_name": "臀部",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Anatomy of the ass",
+        "h5": null,
+        "path": "Anatomy of the ass",
+        "name_cn": "臀部结构",
+        "name_en": "Anatomy of the ass"
+      },
+      {
+        "h4": "Anatomy of the anus",
+        "h5": null,
+        "path": "Anatomy of the anus",
+        "name_cn": "肛门结构",
+        "name_en": "Anatomy of the anus"
+      },
+      {
+        "h4": "Ass and hands",
+        "h5": null,
+        "path": "Ass and hands",
+        "name_cn": "臀部与手部",
+        "name_en": "Ass and hands"
+      },
+      {
+        "h4": "Ass and heads",
+        "h5": null,
+        "path": "Ass and heads",
+        "name_cn": "臀部与头部",
+        "name_en": "Ass and heads"
+      },
+      {
+        "h4": "Ass with cum",
+        "h5": null,
+        "path": "Ass with cum",
+        "name_cn": "臀部与精液",
+        "name_en": "Ass with cum"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aass",
+    "source_url": "/wiki_pages/tag_group%3Aass",
+    "html_file": "tag_group_ass.html"
+  },
+  {
+    "id": "attire",
+    "name_cn": "服装",
+    "name_en": "attire",
+    "display_name": "服装",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Headwear and Headgear",
+        "h5": null,
+        "path": "Headwear and Headgear",
+        "name_cn": "头饰与头部装备",
+        "name_en": "Headwear and Headgear"
+      },
+      {
+        "h4": "Shirts and Topwear",
+        "h5": null,
+        "path": "Shirts and Topwear",
+        "name_cn": "衬衫与上装",
+        "name_en": "Shirts and Topwear"
+      },
+      {
+        "h4": "Pants and Bottomwear",
+        "h5": null,
+        "path": "Pants and Bottomwear",
+        "name_cn": "裤子与下装",
+        "name_en": "Pants and Bottomwear"
+      },
+      {
+        "h4": "Legs and Feet",
+        "h5": null,
+        "path": "Legs and Feet",
+        "name_cn": "腿部与足部",
+        "name_en": "Legs and Feet"
+      },
+      {
+        "h4": "Shoes and Footwear",
+        "h5": null,
+        "path": "Shoes and Footwear",
+        "name_cn": "鞋与足部穿戴",
+        "name_en": "Shoes and Footwear"
+      },
+      {
+        "h4": "Uniforms and Costumes",
+        "h5": null,
+        "path": "Uniforms and Costumes",
+        "name_cn": "制服与装扮",
+        "name_en": "Uniforms and Costumes"
+      },
+      {
+        "h4": "Swimsuits and Bodysuits",
+        "h5": null,
+        "path": "Swimsuits and Bodysuits",
+        "name_cn": "泳装与连体服",
+        "name_en": "Swimsuits and Bodysuits"
+      },
+      {
+        "h4": "Traditional Clothing",
+        "h5": null,
+        "path": "Traditional Clothing",
+        "name_cn": "传统服装",
+        "name_en": "Traditional Clothing"
+      },
+      {
+        "h4": "Jewelry and Accessories",
+        "h5": null,
+        "path": "Jewelry and Accessories",
+        "name_cn": "首饰与配饰",
+        "name_en": "Jewelry and Accessories"
+      },
+      {
+        "h4": "Styles and Patterns",
+        "h5": null,
+        "path": "Styles and Patterns",
+        "name_cn": "风格与图案",
+        "name_en": "Styles and Patterns"
+      },
+      {
+        "path": "Decorations",
+        "h4": "Decorations",
+        "h5": null,
+        "name_cn": "装饰",
+        "name_en": "Decorations"
+      },
+      {
+        "path": "Dresses",
+        "h4": "Dresses",
+        "h5": null,
+        "name_cn": "连衣裙",
+        "name_en": "Dresses"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aattire",
+    "source_url": "/wiki_pages/tag_group%3Aattire",
+    "html_file": "tag_group_attire.html"
+  },
+  {
+    "id": "backgrounds",
+    "name_cn": "背景",
+    "name_en": "backgrounds",
+    "display_name": "背景",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Colors",
+        "h5": null,
+        "path": "Colors",
+        "name_cn": "颜色",
+        "name_en": "Colors"
+      },
+      {
+        "h4": "Multiple Colors",
+        "h5": null,
+        "path": "Multiple Colors",
+        "name_cn": "多种颜色",
+        "name_en": "Multiple Colors"
+      },
+      {
+        "h4": "Patterns",
+        "h5": null,
+        "path": "Patterns",
+        "name_cn": "图案",
+        "name_en": "Patterns"
+      },
+      {
+        "h4": "Descriptive",
+        "h5": null,
+        "path": "Descriptive",
+        "name_cn": "描述性背景",
+        "name_en": "Descriptive"
+      },
+      {
+        "h4": "Objects and Nouns",
+        "h5": null,
+        "path": "Objects and Nouns",
+        "name_cn": "物体与名词",
+        "name_en": "Objects and Nouns"
+      },
+      {
+        "h4": "Mediums",
+        "h5": null,
+        "path": "Mediums",
+        "name_cn": "绘画媒介",
+        "name_en": "Mediums"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abackgrounds",
+    "source_url": "/wiki_pages/tag_group%3Abackgrounds",
+    "html_file": "tag_group_backgrounds.html"
+  },
+  {
+    "id": "bdsm_and_torture",
+    "name_cn": "BDSM与折磨",
+    "name_en": "bdsm_and_torture",
+    "display_name": "BDSM与折磨",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "BDSM Plays",
+        "h5": null,
+        "path": "BDSM Plays",
+        "name_cn": "BDSM玩法",
+        "name_en": "BDSM Plays"
+      },
+      {
+        "h4": "Locations",
+        "h5": null,
+        "path": "Locations",
+        "name_cn": "位置与场所",
+        "name_en": "Locations"
+      },
+      {
+        "h4": "Clothing",
+        "h5": null,
+        "path": "Clothing",
+        "name_cn": "服装",
+        "name_en": "Clothing"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abdsm_and_torture",
+    "source_url": "/wiki_pages/tag_group%3Abdsm_and_torture",
+    "html_file": "tag_group_bdsm_and_torture.html"
+  },
+  {
+    "id": "body_parts",
+    "name_cn": "身体部位",
+    "name_en": "body_parts",
+    "display_name": "身体部位",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Head",
+        "h5": null,
+        "path": "Head",
+        "name_cn": "头部",
+        "name_en": "Head"
+      },
+      {
+        "h4": "Torso",
+        "h5": null,
+        "path": "Torso",
+        "name_cn": "躯干",
+        "name_en": "Torso"
+      },
+      {
+        "h4": "Appendages",
+        "h5": null,
+        "path": "Appendages",
+        "name_cn": "四肢与附属部位",
+        "name_en": "Appendages"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abody_parts",
+    "source_url": "/wiki_pages/tag_group%3Abody_parts",
+    "html_file": "tag_group_body_parts.html"
+  },
+  {
+    "id": "bra",
+    "name_cn": "胸罩",
+    "name_en": "bra",
+    "display_name": "胸罩",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Specific colors of bras",
+        "h5": null,
+        "path": "Specific colors of bras",
+        "name_cn": "胸罩颜色",
+        "name_en": "Specific colors of bras"
+      },
+      {
+        "h4": "Multiple colors of bras",
+        "h5": null,
+        "path": "Multiple colors of bras",
+        "name_cn": "多色胸罩",
+        "name_en": "Multiple colors of bras"
+      },
+      {
+        "h4": "Patterns and prints of bras",
+        "h5": null,
+        "path": "Patterns and prints of bras",
+        "name_cn": "胸罩图案与印花",
+        "name_en": "Patterns and prints of bras"
+      },
+      {
+        "h4": "Models of bras",
+        "h5": null,
+        "path": "Models of bras",
+        "name_cn": "胸罩款式",
+        "name_en": "Models of bras"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Abra",
+    "source_url": "/wiki_pages/tag_group%3Abra",
+    "html_file": "tag_group_bra.html"
+  },
+  {
+    "id": "breasts_tags",
+    "name_cn": "胸部标签",
+    "name_en": "breasts_tags",
+    "display_name": "胸部标签",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "path": "Ass and hands",
+        "h4": "Ass and hands",
+        "h5": null,
+        "name_cn": "臀部与手部",
+        "name_en": "Ass and hands"
+      },
+      {
+        "path": "Breast sizes",
+        "h4": "Breast sizes",
+        "h5": null,
+        "name_cn": "胸部大小",
+        "name_en": "Breast sizes"
+      },
+      {
+        "path": "Breasts and other parts of the body",
+        "h4": "Breasts and other parts of the body",
+        "h5": null,
+        "name_cn": "胸部与其他身体部位",
+        "name_en": "Breasts and other parts of the body"
+      },
+      {
+        "path": "By body part/Torso",
+        "h4": "By body part/Torso",
+        "h5": null,
+        "name_cn": "躯干",
+        "name_en": "By body part/Torso"
+      },
+      {
+        "path": "Clothes for breasts",
+        "h4": "Clothes for breasts",
+        "h5": null,
+        "name_cn": "胸部服饰",
+        "name_en": "Clothes for breasts"
+      },
+      {
+        "path": "Descriptions of breasts",
+        "h4": "Descriptions of breasts",
+        "h5": null,
+        "name_cn": "胸部特征",
+        "name_en": "Descriptions of breasts"
+      },
+      {
+        "path": "Locations",
+        "h4": "Locations",
+        "h5": null,
+        "name_cn": "位置与场所",
+        "name_en": "Locations"
+      },
+      {
+        "path": "Models of bras",
+        "h4": "Models of bras",
+        "h5": null,
+        "name_cn": "胸罩款式",
+        "name_en": "Models of bras"
+      },
+      {
+        "path": "Shirts and Topwear",
+        "h4": "Shirts and Topwear",
+        "h5": null,
+        "name_cn": "衬衫与上装",
+        "name_en": "Shirts and Topwear"
+      },
+      {
+        "path": "Swimsuits and Bodysuits",
+        "h4": "Swimsuits and Bodysuits",
+        "h5": null,
+        "name_cn": "泳装与连体服",
+        "name_en": "Swimsuits and Bodysuits"
+      },
+      {
+        "path": "Traditional Clothing",
+        "h4": "Traditional Clothing",
+        "h5": null,
+        "name_cn": "传统服装",
+        "name_en": "Traditional Clothing"
+      },
+      {
+        "path": "Visibility",
+        "h4": "Visibility",
+        "h5": null,
+        "name_cn": "可见程度",
+        "name_en": "Visibility"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "colors",
+    "name_cn": "颜色",
+    "name_en": "colors",
+    "display_name": "颜色",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Single color themes",
+        "h5": null,
+        "path": "Single color themes",
+        "name_cn": "单色主题",
+        "name_en": "Single color themes"
+      },
+      {
+        "h4": "Neutral Palettes",
+        "h5": null,
+        "path": "Neutral Palettes",
+        "name_cn": "中性色调",
+        "name_en": "Neutral Palettes"
+      },
+      {
+        "h4": "Partial Coloring",
+        "h5": null,
+        "path": "Partial Coloring",
+        "name_cn": "局部上色",
+        "name_en": "Partial Coloring"
+      },
+      {
+        "h4": "No Color",
+        "h5": null,
+        "path": "No Color",
+        "name_cn": "无色彩",
+        "name_en": "No Color"
+      },
+      {
+        "h4": "Filters",
+        "h5": null,
+        "path": "Filters",
+        "name_cn": "滤镜",
+        "name_en": "Filters"
+      },
+      {
+        "h4": "Color Theory",
+        "h5": null,
+        "path": "Color Theory",
+        "name_cn": "色彩理论",
+        "name_en": "Color Theory"
+      },
+      {
+        "h4": "Coloring Styles",
+        "h5": null,
+        "path": "Coloring Styles",
+        "name_cn": "上色风格",
+        "name_en": "Coloring Styles"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Acolors",
+    "source_url": "/wiki_pages/tag_group%3Acolors",
+    "html_file": "tag_group_colors.html"
+  },
+  {
+    "id": "dances",
+    "name_cn": "舞蹈",
+    "name_en": "dances",
+    "display_name": "舞蹈",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Solo dance moves",
+        "h5": null,
+        "path": "Solo dance moves",
+        "name_cn": "独舞动作",
+        "name_en": "Solo dance moves"
+      },
+      {
+        "h4": "Duo dance moves",
+        "h5": null,
+        "path": "Duo dance moves",
+        "name_cn": "双人舞动作",
+        "name_en": "Duo dance moves"
+      },
+      {
+        "h4": "Group dance moves",
+        "h5": null,
+        "path": "Group dance moves",
+        "name_cn": "群舞动作",
+        "name_en": "Group dance moves"
+      },
+      {
+        "h4": "Dance styles",
+        "h5": null,
+        "path": "Dance styles",
+        "name_cn": "舞蹈风格",
+        "name_en": "Dance styles"
+      },
+      {
+        "h4": "Specific choreographies",
+        "h5": null,
+        "path": "Specific choreographies",
+        "name_cn": "特定舞蹈编排",
+        "name_en": "Specific choreographies"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Adances",
+    "source_url": "/wiki_pages/tag_group%3Adances",
+    "html_file": "tag_group_dances.html"
+  },
+  {
+    "id": "ears_tags",
+    "name_cn": "耳朵标签",
+    "name_en": "ears_tags",
+    "display_name": "耳朵标签",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Animal ears",
+        "h5": null,
+        "path": "Animal ears",
+        "name_cn": "兽耳",
+        "name_en": "Animal ears"
+      },
+      {
+        "h4": "Number of ears",
+        "h5": null,
+        "path": "Number of ears",
+        "name_cn": "耳朵数量",
+        "name_en": "Number of ears"
+      },
+      {
+        "h4": "Objects for the ears; or, objects with ears",
+        "h5": null,
+        "path": "Objects for the ears; or, objects with ears",
+        "name_cn": "耳部用品与带耳物件",
+        "name_en": "Objects for the ears; or, objects with ears"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aears_tags",
+    "source_url": "/wiki_pages/tag_group%3Aears_tags",
+    "html_file": "tag_group_ears_tags.html"
+  },
+  {
+    "id": "eyes_tags",
+    "name_cn": "眼睛标签",
+    "name_en": "eyes_tags",
+    "display_name": "眼睛标签",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Iris",
+        "h5": null,
+        "path": "Iris",
+        "name_cn": "虹膜",
+        "name_en": "Iris"
+      },
+      {
+        "h4": "Pupils",
+        "h5": null,
+        "path": "Pupils",
+        "name_cn": "瞳孔",
+        "name_en": "Pupils"
+      },
+      {
+        "h4": "Sclera",
+        "h5": null,
+        "path": "Sclera",
+        "name_cn": "巩膜",
+        "name_en": "Sclera"
+      },
+      {
+        "h4": "Around the eyes",
+        "h5": null,
+        "path": "Around the eyes",
+        "name_cn": "眼睛周围",
+        "name_en": "Around the eyes"
+      },
+      {
+        "h4": "Number of eyes",
+        "h5": null,
+        "path": "Number of eyes",
+        "name_cn": "眼睛数量",
+        "name_en": "Number of eyes"
+      },
+      {
+        "h4": "Emotions and expressions",
+        "h5": null,
+        "path": "Emotions and expressions",
+        "name_cn": "情绪与表情",
+        "name_en": "Emotions and expressions"
+      },
+      {
+        "h4": "One or two eyes closed",
+        "h5": null,
+        "path": "One or two eyes closed",
+        "name_cn": "闭眼与单眼闭合",
+        "name_en": "One or two eyes closed"
+      },
+      {
+        "h4": "Accessories for the eyes; Eyes covered",
+        "h5": null,
+        "path": "Accessories for the eyes; Eyes covered",
+        "name_cn": "眼部配饰与遮挡",
+        "name_en": "Accessories for the eyes; Eyes covered"
+      },
+      {
+        "h4": "Gazes",
+        "h5": null,
+        "path": "Gazes",
+        "name_cn": "视线",
+        "name_en": "Gazes"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyes_tags",
+    "source_url": "/wiki_pages/tag_group%3Aeyes_tags",
+    "html_file": "tag_group_eyes_tags.html"
+  },
+  {
+    "id": "eyewear",
+    "name_cn": "眼镜",
+    "name_en": "eyewear",
+    "display_name": "眼镜",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Eyewear",
+        "h5": null,
+        "path": "Eyewear",
+        "name_cn": "眼部穿戴",
+        "name_en": "Eyewear"
+      },
+      {
+        "h4": "Glasses",
+        "h5": null,
+        "path": "Glasses",
+        "name_cn": "眼镜",
+        "name_en": "Glasses"
+      },
+      {
+        "h4": "Sunglasses",
+        "h5": null,
+        "path": "Sunglasses",
+        "name_cn": "太阳镜",
+        "name_en": "Sunglasses"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aeyewear",
+    "source_url": "/wiki_pages/tag_group%3Aeyewear",
+    "html_file": "tag_group_eyewear.html"
+  },
+  {
+    "id": "face_tags",
+    "name_cn": "面部,表情",
+    "name_en": "face_tags",
+    "display_name": "面部标签",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Emotions",
+        "h5": null,
+        "path": "Emotions",
+        "name_cn": "情绪",
+        "name_en": "Emotions"
+      },
+      {
+        "h4": "Sexual",
+        "h5": null,
+        "path": "Sexual",
+        "name_cn": "性相关",
+        "name_en": "Sexual"
+      },
+      {
+        "h4": "Emotes",
+        "h5": null,
+        "path": "Emotes",
+        "name_cn": "表情符号与表达",
+        "name_en": "Emotes"
+      },
+      {
+        "h4": "Drawing styles",
+        "h5": null,
+        "path": "Drawing styles",
+        "name_cn": "绘画风格",
+        "name_en": "Drawing styles"
+      },
+      {
+        "h4": "Meme faces",
+        "h5": null,
+        "path": "Meme faces",
+        "name_cn": "梗图表情",
+        "name_en": "Meme faces"
+      },
+      {
+        "h4": "Looking at...",
+        "h5": null,
+        "path": "Looking at...",
+        "name_cn": "注视对象",
+        "name_en": "Looking at..."
+      },
+      {
+        "path": "Emotions and expressions",
+        "h4": "Emotions and expressions",
+        "h5": null,
+        "name_cn": "情绪与表情",
+        "name_en": "Emotions and expressions"
+      },
+      {
+        "path": "One or two eyes closed",
+        "h4": "One or two eyes closed",
+        "h5": null,
+        "name_cn": "闭眼与单眼闭合",
+        "name_en": "One or two eyes closed"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aface_tags",
+    "source_url": "/wiki_pages/tag_group%3Aface_tags",
+    "html_file": "tag_group_face_tags.html"
+  },
+  {
+    "id": "fashion_style",
+    "name_cn": "时尚风格",
+    "name_en": "fashion_style",
+    "display_name": "时尚风格",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "General",
+        "h5": "Decades",
+        "path": "General/Decades",
+        "name_cn": "年代风格",
+        "name_en": "Decades"
+      },
+      {
+        "h4": "Japanese fashion styles",
+        "h5": null,
+        "path": "Japanese fashion styles",
+        "name_cn": "日式时尚风格",
+        "name_en": "Japanese fashion styles"
+      },
+      {
+        "h4": "Western fashion styles",
+        "h5": null,
+        "path": "Western fashion styles",
+        "name_cn": "西式时尚风格",
+        "name_en": "Western fashion styles"
+      },
+      {
+        "h4": "Chinese &amp; Korean fashion styles",
+        "h5": null,
+        "path": "Chinese &amp; Korean fashion styles",
+        "name_cn": "中韩时尚风格",
+        "name_en": "Chinese & Korean fashion styles"
+      },
+      {
+        "h4": "Cultural and historical styles",
+        "h5": null,
+        "path": "Cultural and historical styles",
+        "name_cn": "文化与历史风格",
+        "name_en": "Cultural and historical styles"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afashion_style",
+    "source_url": "/wiki_pages/tag_group%3Afashion_style",
+    "html_file": "tag_group_fashion_style.html"
+  },
+  {
+    "id": "flowers",
+    "name_cn": "花卉",
+    "name_en": "flowers",
+    "display_name": "花卉",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Species of flower",
+        "h5": null,
+        "path": "Species of flower",
+        "name_cn": "花卉种类",
+        "name_en": "Species of flower"
+      },
+      {
+        "h4": "Fictional flowers",
+        "h5": null,
+        "path": "Fictional flowers",
+        "name_cn": "虚构花卉",
+        "name_en": "Fictional flowers"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aflowers",
+    "source_url": "/wiki_pages/tag_group%3Aflowers",
+    "html_file": "tag_group_flowers.html"
+  },
+  {
+    "id": "focus_tags",
+    "name_cn": "焦点标签",
+    "name_en": "focus_tags",
+    "display_name": "焦点标签",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Body parts",
+        "h5": null,
+        "path": "Body parts",
+        "name_cn": "身体部位",
+        "name_en": "Body parts"
+      },
+      {
+        "h4": "Gender",
+        "h5": null,
+        "path": "Gender",
+        "name_cn": "性别",
+        "name_en": "Gender"
+      },
+      {
+        "h4": "Objects",
+        "h5": null,
+        "path": "Objects",
+        "name_cn": "物品",
+        "name_en": "Objects"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afocus_tags",
+    "source_url": "/wiki_pages/tag_group%3Afocus_tags",
+    "html_file": "tag_group_focus_tags.html"
+  },
+  {
+    "id": "food_tags",
+    "name_cn": "食物标签",
+    "name_en": "food_tags",
+    "display_name": "食物标签",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Breads, grains, and starches",
+        "h5": null,
+        "path": "Breads, grains, and starches",
+        "name_cn": "面包、谷物与淀粉类",
+        "name_en": "Breads, grains, and starches"
+      },
+      {
+        "h4": "Dairy",
+        "h5": null,
+        "path": "Dairy",
+        "name_cn": "乳制品",
+        "name_en": "Dairy"
+      },
+      {
+        "h4": "Condiments / Garnishes / Spices",
+        "h5": null,
+        "path": "Condiments / Garnishes / Spices",
+        "name_cn": "调味料、配菜与香料",
+        "name_en": "Condiments / Garnishes / Spices"
+      },
+      {
+        "h4": "Meal Items / Misc. Tags",
+        "h5": null,
+        "path": "Meal Items / Misc. Tags",
+        "name_cn": "餐食与其他食物标签",
+        "name_en": "Meal Items / Misc. Tags"
+      },
+      {
+        "h4": "Drink / Condiment Containers",
+        "h5": null,
+        "path": "Drink / Condiment Containers",
+        "name_cn": "饮料与调味料容器",
+        "name_en": "Drink / Condiment Containers"
+      },
+      {
+        "h4": "Professions and Establishments",
+        "h5": null,
+        "path": "Professions and Establishments",
+        "name_cn": "职业与店铺",
+        "name_en": "Professions and Establishments"
+      },
+      {
+        "h4": "Actions, Activities, Misc.",
+        "h5": null,
+        "path": "Actions, Activities, Misc.",
+        "name_cn": "动作、活动与其他",
+        "name_en": "Actions, Activities, Misc."
+      },
+      {
+        "h4": "Utensils and Utilities",
+        "h5": null,
+        "path": "Utensils and Utilities",
+        "name_cn": "餐具与用具",
+        "name_en": "Utensils and Utilities"
+      },
+      {
+        "h4": "Food-Related Companies, Brands, &amp; Mascots",
+        "h5": null,
+        "path": "Food-Related Companies, Brands, &amp; Mascots",
+        "name_cn": "食品公司、品牌与吉祥物",
+        "name_en": "Food-Related Companies, Brands, & Mascots"
+      },
+      {
+        "h4": "Sexual Content",
+        "h5": null,
+        "path": "Sexual Content",
+        "name_cn": "性相关内容",
+        "name_en": "Sexual Content"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Afood_tags",
+    "source_url": "/wiki_pages/tag_group%3Afood_tags",
+    "html_file": "tag_group_food_tags.html"
+  },
+  {
+    "id": "gender_nonconformity",
+    "name_cn": "LQBTQ+",
+    "name_en": "gender_nonconformity",
+    "display_name": "性别非二元",
+    "search_enabled": false,
+    "library": "general",
+    "categories": [
+      {
+        "h4": "Symbols",
+        "h5": null,
+        "path": "Symbols",
+        "name_cn": "符号",
+        "name_en": "Symbols"
+      },
+      {
+        "h4": "Appearance",
+        "h5": null,
+        "path": "Appearance",
+        "name_cn": "外观",
+        "name_en": "Appearance"
+      },
+      {
+        "h4": "Behavior",
+        "h5": null,
+        "path": "Behavior",
+        "name_cn": "行为",
+        "name_en": "Behavior"
+      },
+      {
+        "h4": "Anatomy",
+        "h5": null,
+        "path": "Anatomy",
+        "name_cn": "身体结构",
+        "name_en": "Anatomy"
+      },
+      {
+        "h4": "Fetishes",
+        "h5": null,
+        "path": "Fetishes",
+        "name_cn": "性癖",
+        "name_en": "Fetishes"
+      },
+      {
+        "h4": "Culture",
+        "h5": null,
+        "path": "Culture",
+        "name_cn": "文化",
+        "name_en": "Culture"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Agender_nonconformity",
+    "source_url": "/wiki_pages/tag_group%3Agender_nonconformity",
+    "html_file": "tag_group_gender_nonconformity.html"
+  },
+  {
+    "id": "gestures",
+    "name_cn": "手势",
+    "name_en": "gestures",
+    "display_name": "手势",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Gestures encompassing at least two hands",
+        "h5": null,
+        "path": "Gestures encompassing at least two hands",
+        "name_cn": "双手或多手手势",
+        "name_en": "Gestures encompassing at least two hands"
+      },
+      {
+        "h4": "Gestures encompassing only one hand",
+        "h5": null,
+        "path": "Gestures encompassing only one hand",
+        "name_cn": "单手手势",
+        "name_en": "Gestures encompassing only one hand"
+      },
+      {
+        "path": "Sexual",
+        "h4": "Sexual",
+        "h5": null,
+        "name_cn": "性相关",
+        "name_en": "Sexual"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Agestures",
+    "source_url": "/wiki_pages/tag_group%3Agestures",
+    "html_file": "tag_group_gestures.html"
+  },
+  {
+    "id": "hair_styles",
+    "name_cn": "发型",
+    "name_en": "hair_styles",
+    "display_name": "发型",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Length and volume",
+        "h5": null,
+        "path": "Length and volume",
+        "name_cn": "长度与发量",
+        "name_en": "Length and volume"
+      },
+      {
+        "h4": "Hairstyles",
+        "h5": null,
+        "path": "Hairstyles",
+        "name_cn": "发型",
+        "name_en": "Hairstyles"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles",
+    "source_url": "/wiki_pages/tag_group%3Ahair_styles",
+    "html_file": "tag_group_hair_styles.html"
+  },
+  {
+    "id": "hair",
+    "name_cn": "毛发",
+    "name_en": "hair",
+    "display_name": "毛发",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Hair styles and colors",
+        "h5": null,
+        "path": "Hair styles and colors",
+        "name_cn": "发型与发色",
+        "name_en": "Hair styles and colors"
+      },
+      {
+        "h4": "Actions",
+        "h5": null,
+        "path": "Actions",
+        "name_cn": "动作",
+        "name_en": "Actions"
+      },
+      {
+        "h4": "Objects",
+        "h5": null,
+        "path": "Objects",
+        "name_cn": "物品",
+        "name_en": "Objects"
+      },
+      {
+        "h4": "Facial hair",
+        "h5": null,
+        "path": "Facial hair",
+        "name_cn": "面部毛发",
+        "name_en": "Facial hair"
+      },
+      {
+        "h4": "Fantasy",
+        "h5": null,
+        "path": "Fantasy",
+        "name_cn": "幻想元素",
+        "name_en": "Fantasy"
+      },
+      {
+        "path": "By body part/Head",
+        "h4": "By body part/Head",
+        "h5": null,
+        "name_cn": "头部",
+        "name_en": "By body part/Head"
+      },
+      {
+        "path": "Multiple colors",
+        "h4": "Multiple colors",
+        "h5": null,
+        "name_cn": "异色发",
+        "name_en": "Multiple colors"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair",
+    "source_url": "/wiki_pages/tag_group%3Ahair",
+    "html_file": "tag_group_hair.html"
+  },
+  {
+    "id": "handwear",
+    "name_cn": "手部穿戴",
+    "name_en": "handwear",
+    "display_name": "手部穿戴",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Gloves",
+        "h5": null,
+        "path": "Gloves",
+        "name_cn": "手套",
+        "name_en": "Gloves"
+      },
+      {
+        "h4": "Glove prints",
+        "h5": null,
+        "path": "Glove prints",
+        "name_cn": "手套图案",
+        "name_en": "Glove prints"
+      },
+      {
+        "h4": "Glove accessories",
+        "h5": null,
+        "path": "Glove accessories",
+        "name_cn": "手套配饰",
+        "name_en": "Glove accessories"
+      },
+      {
+        "h4": "Glove trims",
+        "h5": null,
+        "path": "Glove trims",
+        "name_cn": "手套饰边",
+        "name_en": "Glove trims"
+      },
+      {
+        "h4": "Asymmetrical Gloves",
+        "h5": null,
+        "path": "Asymmetrical Gloves",
+        "name_cn": "不对称手套",
+        "name_en": "Asymmetrical Gloves"
+      },
+      {
+        "h4": "Glove Materials",
+        "h5": null,
+        "path": "Glove Materials",
+        "name_cn": "手套材质",
+        "name_en": "Glove Materials"
+      },
+      {
+        "h4": "Glove interactions",
+        "h5": null,
+        "path": "Glove interactions",
+        "name_cn": "手套相关动作",
+        "name_en": "Glove interactions"
+      },
+      {
+        "h4": "Glove colors",
+        "h5": null,
+        "path": "Glove colors",
+        "name_cn": "手套颜色",
+        "name_en": "Glove colors"
+      },
+      {
+        "h4": "Hand Accessories",
+        "h5": null,
+        "path": "Hand Accessories",
+        "name_cn": "手部配饰",
+        "name_en": "Hand Accessories"
+      },
+      {
+        "h4": "Hand markings",
+        "h5": null,
+        "path": "Hand markings",
+        "name_cn": "手部标记",
+        "name_en": "Hand markings"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ahandwear",
+    "source_url": "/wiki_pages/tag_group%3Ahandwear",
+    "html_file": "tag_group_handwear.html"
+  },
+  {
+    "id": "headwear",
+    "name_cn": "头饰",
+    "name_en": "headwear",
+    "display_name": "头饰",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Types",
+        "h5": null,
+        "path": "Types",
+        "name_cn": "类型",
+        "name_en": "Types"
+      },
+      {
+        "h4": "Colours",
+        "h5": null,
+        "path": "Colours",
+        "name_cn": "颜色",
+        "name_en": "Colours"
+      },
+      {
+        "h4": "Hats",
+        "h5": null,
+        "path": "Hats",
+        "name_cn": "帽子",
+        "name_en": "Hats"
+      },
+      {
+        "h4": "Crowns",
+        "h5": null,
+        "path": "Crowns",
+        "name_cn": "冠冕",
+        "name_en": "Crowns"
+      },
+      {
+        "h4": "Actions / states",
+        "h5": null,
+        "path": "Actions / states",
+        "name_cn": "动作与状态",
+        "name_en": "Actions / states"
+      },
+      {
+        "h4": "Accessories",
+        "h5": null,
+        "path": "Accessories",
+        "name_cn": "配饰",
+        "name_en": "Accessories"
+      },
+      {
+        "h4": "Not headwear",
+        "h5": null,
+        "path": "Not headwear",
+        "name_cn": "非头饰物品",
+        "name_en": "Not headwear"
+      },
+      {
+        "path": "Gestures encompassing only one hand",
+        "h4": "Gestures encompassing only one hand",
+        "h5": null,
+        "name_cn": "单手手势",
+        "name_en": "Gestures encompassing only one hand"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aheadwear",
+    "source_url": "/wiki_pages/tag_group%3Aheadwear",
+    "html_file": "tag_group_headwear.html"
+  },
+  {
+    "id": "holding_tags",
+    "name_cn": "手持标签",
+    "name_en": "holding_tags",
+    "display_name": "手持标签",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Attire and Accessories",
+        "h5": null,
+        "path": "Attire and Accessories",
+        "name_cn": "服装与配饰",
+        "name_en": "Attire and Accessories"
+      },
+      {
+        "h4": "Bedding",
+        "h5": null,
+        "path": "Bedding",
+        "name_cn": "寝具",
+        "name_en": "Bedding"
+      },
+      {
+        "h4": "Body Part",
+        "h5": null,
+        "path": "Body Part",
+        "name_cn": "身体部位",
+        "name_en": "Body Part"
+      },
+      {
+        "h4": "Containers and Storage",
+        "h5": null,
+        "path": "Containers and Storage",
+        "name_cn": "容器与收纳",
+        "name_en": "Containers and Storage"
+      },
+      {
+        "h4": "Electronics and Tech",
+        "h5": null,
+        "path": "Electronics and Tech",
+        "name_cn": "电子设备与科技",
+        "name_en": "Electronics and Tech"
+      },
+      {
+        "h4": "Food and Drink",
+        "h5": null,
+        "path": "Food and Drink",
+        "name_cn": "食物与饮料",
+        "name_en": "Food and Drink"
+      },
+      {
+        "h4": "Hygiene",
+        "h5": null,
+        "path": "Hygiene",
+        "name_cn": "清洁用品",
+        "name_en": "Hygiene"
+      },
+      {
+        "h4": "Kitchenware and Utensils",
+        "h5": null,
+        "path": "Kitchenware and Utensils",
+        "name_cn": "厨具与餐具",
+        "name_en": "Kitchenware and Utensils"
+      },
+      {
+        "h4": "Lab and Research",
+        "h5": null,
+        "path": "Lab and Research",
+        "name_cn": "实验与研究用品",
+        "name_en": "Lab and Research"
+      },
+      {
+        "h4": "Lighting",
+        "h5": null,
+        "path": "Lighting",
+        "name_cn": "照明",
+        "name_en": "Lighting"
+      },
+      {
+        "h4": "Medical Equipment",
+        "h5": null,
+        "path": "Medical Equipment",
+        "name_cn": "医疗器械",
+        "name_en": "Medical Equipment"
+      },
+      {
+        "h4": "Music ",
+        "h5": null,
+        "path": "Music ",
+        "name_cn": "音乐用品",
+        "name_en": "Music"
+      },
+      {
+        "h4": "Nature",
+        "h5": null,
+        "path": "Nature",
+        "name_cn": "自然物品",
+        "name_en": "Nature"
+      },
+      {
+        "h4": "Painting",
+        "h5": null,
+        "path": "Painting",
+        "name_cn": "绘画用品",
+        "name_en": "Painting"
+      },
+      {
+        "h4": "Paper and Documents ",
+        "h5": null,
+        "path": "Paper and Documents ",
+        "name_cn": "纸张与文件",
+        "name_en": "Paper and Documents"
+      },
+      {
+        "h4": "Religious and Cultural",
+        "h5": null,
+        "path": "Religious and Cultural",
+        "name_cn": "宗教与文化用品",
+        "name_en": "Religious and Cultural"
+      },
+      {
+        "h4": "Sexual Intercourse",
+        "h5": null,
+        "path": "Sexual Intercourse",
+        "name_cn": "性交",
+        "name_en": "Sexual Intercourse"
+      },
+      {
+        "h4": "Smoking ",
+        "h5": null,
+        "path": "Smoking ",
+        "name_cn": "吸烟用品",
+        "name_en": "Smoking"
+      },
+      {
+        "h4": "Sports and Recreation",
+        "h5": null,
+        "path": "Sports and Recreation",
+        "name_cn": "运动与娱乐用品",
+        "name_en": "Sports and Recreation"
+      },
+      {
+        "h4": "Stationery",
+        "h5": null,
+        "path": "Stationery",
+        "name_cn": "文具",
+        "name_en": "Stationery"
+      },
+      {
+        "h4": "Tools",
+        "h5": null,
+        "path": "Tools",
+        "name_cn": "工具",
+        "name_en": "Tools"
+      },
+      {
+        "h4": "Toys and Games",
+        "h5": null,
+        "path": "Toys and Games",
+        "name_cn": "玩具与游戏",
+        "name_en": "Toys and Games"
+      },
+      {
+        "h4": "Weapons",
+        "h5": null,
+        "path": "Weapons",
+        "name_cn": "武器",
+        "name_en": "Weapons"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aholding_tags",
+    "source_url": "/wiki_pages/tag_group%3Aholding_tags",
+    "html_file": "tag_group_holding_tags.html"
+  },
+  {
+    "id": "image_composition",
+    "name_cn": "构图",
+    "name_en": "image_composition",
+    "display_name": "构图",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "View Angle",
+        "h5": null,
+        "path": "View Angle",
+        "name_cn": "观察角度",
+        "name_en": "View Angle"
+      },
+      {
+        "h4": "Perspective/Depth",
+        "h5": null,
+        "path": "Perspective/Depth",
+        "name_cn": "透视与景深",
+        "name_en": "Perspective/Depth"
+      },
+      {
+        "h4": "Composition",
+        "h5": null,
+        "path": "Composition",
+        "name_cn": "构图",
+        "name_en": "Composition"
+      },
+      {
+        "h4": "Format",
+        "h5": null,
+        "path": "Format",
+        "name_cn": "画面格式",
+        "name_en": "Format"
+      },
+      {
+        "h4": "Subject matter",
+        "h5": "Framing the body",
+        "path": "Subject matter/Framing the body",
+        "name_cn": "身体取景",
+        "name_en": "Framing the body"
+      },
+      {
+        "h4": "Techniques",
+        "h5": null,
+        "path": "Techniques",
+        "name_cn": "绘画技法",
+        "name_en": "Techniques"
+      },
+      {
+        "h4": "Traditional Japanese Patterns",
+        "h5": null,
+        "path": "Traditional Japanese Patterns",
+        "name_cn": "日本传统纹样",
+        "name_en": "Traditional Japanese Patterns"
+      },
+      {
+        "h4": "Flaws",
+        "h5": null,
+        "path": "Flaws",
+        "name_cn": "画面瑕疵",
+        "name_en": "Flaws"
+      },
+      {
+        "h4": "Background/Color",
+        "h5": null,
+        "path": "Background/Color",
+        "name_cn": "背景颜色",
+        "name_en": "Background/Color"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aimage_composition",
+    "source_url": "/wiki_pages/tag_group%3Aimage_composition",
+    "html_file": "tag_group_image_composition.html"
+  },
+  {
+    "id": "jobs",
+    "name_cn": "职业",
+    "name_en": "jobs",
+    "display_name": "职业",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Jobs",
+        "h5": null,
+        "path": "Jobs",
+        "name_cn": "职业",
+        "name_en": "Jobs"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ajobs",
+    "source_url": "/wiki_pages/tag_group%3Ajobs",
+    "html_file": "tag_group_jobs.html"
+  },
+  {
+    "id": "legwear",
+    "name_cn": "腿部穿戴",
+    "name_en": "legwear",
+    "display_name": "腿部穿戴",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Main tags / Legwear by height",
+        "h5": null,
+        "path": "Main tags / Legwear by height",
+        "name_cn": "主要标签与腿部穿戴高度",
+        "name_en": "Main tags / Legwear by height"
+      },
+      {
+        "h4": "Additional Detail tags",
+        "h5": null,
+        "path": "Additional Detail tags",
+        "name_cn": "附加细节",
+        "name_en": "Additional Detail tags"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alegwear",
+    "source_url": "/wiki_pages/tag_group%3Alegwear",
+    "html_file": "tag_group_legwear.html"
+  },
+  {
+    "id": "lighting",
+    "name_cn": "光照",
+    "name_en": "lighting",
+    "display_name": "光照",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Directional",
+        "h5": null,
+        "path": "Directional",
+        "name_cn": "光照方向",
+        "name_en": "Directional"
+      },
+      {
+        "h4": "Types",
+        "h5": null,
+        "path": "Types",
+        "name_cn": "类型",
+        "name_en": "Types"
+      },
+      {
+        "h4": "Time of day lighting",
+        "h5": null,
+        "path": "Time of day lighting",
+        "name_cn": "时段光照",
+        "name_en": "Time of day lighting"
+      },
+      {
+        "h4": "Light sources",
+        "h5": null,
+        "path": "Light sources",
+        "name_cn": "光源",
+        "name_en": "Light sources"
+      },
+      {
+        "h4": "Absence of light",
+        "h5": null,
+        "path": "Absence of light",
+        "name_cn": "无光环境",
+        "name_en": "Absence of light"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Alighting",
+    "source_url": "/wiki_pages/tag_group%3Alighting",
+    "html_file": "tag_group_lighting.html"
+  },
+  {
+    "id": "makeup",
+    "name_cn": "妆容",
+    "name_en": "makeup",
+    "display_name": "妆容",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Types of Makeup",
+        "h5": null,
+        "path": "Types of Makeup",
+        "name_cn": "妆容类型",
+        "name_en": "Types of Makeup"
+      },
+      {
+        "h4": "Objects and Scenery",
+        "h5": null,
+        "path": "Objects and Scenery",
+        "name_cn": "物品与场景",
+        "name_en": "Objects and Scenery"
+      },
+      {
+        "h4": "Colors",
+        "h5": null,
+        "path": "Colors",
+        "name_cn": "颜色",
+        "name_en": "Colors"
+      },
+      {
+        "h4": "Mismatches",
+        "h5": null,
+        "path": "Mismatches",
+        "name_cn": "不一致与不对称",
+        "name_en": "Mismatches"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Amakeup",
+    "source_url": "/wiki_pages/tag_group%3Amakeup",
+    "html_file": "tag_group_makeup.html"
+  },
+  {
+    "id": "neck_and_neckwear",
+    "name_cn": "颈部与颈饰",
+    "name_en": "neck_and_neckwear",
+    "display_name": "颈部与颈饰",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Anatomy of the neck",
+        "h5": null,
+        "path": "Anatomy of the neck",
+        "name_cn": "颈部结构",
+        "name_en": "Anatomy of the neck"
+      },
+      {
+        "h4": "Actions / Posture",
+        "h5": null,
+        "path": "Actions / Posture",
+        "name_cn": "动作与姿态",
+        "name_en": "Actions / Posture"
+      },
+      {
+        "h4": "Detached Neckwear",
+        "h5": null,
+        "path": "Detached Neckwear",
+        "name_cn": "独立颈饰",
+        "name_en": "Detached Neckwear"
+      },
+      {
+        "h4": "Collared clothes",
+        "h5": null,
+        "path": "Collared clothes",
+        "name_cn": "带领服装",
+        "name_en": "Collared clothes"
+      },
+      {
+        "h4": "Neckwear actions",
+        "h5": null,
+        "path": "Neckwear actions",
+        "name_cn": "颈饰相关动作",
+        "name_en": "Neckwear actions"
+      },
+      {
+        "h4": "Neckwear types",
+        "h5": null,
+        "path": "Neckwear types",
+        "name_cn": "颈饰类型",
+        "name_en": "Neckwear types"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aneck_and_neckwear",
+    "source_url": "/wiki_pages/tag_group%3Aneck_and_neckwear",
+    "html_file": "tag_group_neck_and_neckwear.html"
+  },
+  {
+    "id": "nudity",
+    "name_cn": "性感服装与裸露",
+    "name_en": "Sexual attire and nudity",
+    "display_name": "性感服装与裸露",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Partial nudity",
+        "h5": null,
+        "path": "Partial nudity",
+        "name_cn": "暴露服装",
+        "name_en": "Partial nudity"
+      },
+      {
+        "h4": "Naughty points of view",
+        "h5": null,
+        "path": "Naughty points of view",
+        "name_cn": "性感视角",
+        "name_en": "Naughty points of view"
+      },
+      {
+        "h4": "Dressing / Covering body parts",
+        "h5": null,
+        "path": "Dressing / Covering body parts",
+        "name_cn": "遮挡身体",
+        "name_en": "Dressing / Covering body parts"
+      },
+      {
+        "h4": "Touching clothes",
+        "h5": null,
+        "path": "Touching clothes",
+        "name_cn": "触碰衣物",
+        "name_en": "Touching clothes"
+      },
+      {
+        "h4": "Lingerie",
+        "h5": null,
+        "path": "Lingerie",
+        "name_cn": "内衣",
+        "name_en": "Lingerie"
+      },
+      {
+        "h4": "BDSM",
+        "h5": null,
+        "path": "BDSM",
+        "name_cn": "BDSM",
+        "name_en": "BDSM"
+      },
+      {
+        "h4": "Nudity by gender",
+        "h5": null,
+        "path": "Nudity by gender",
+        "name_cn": "按性别区分的裸露",
+        "name_en": "Nudity by gender"
+      },
+      {
+        "path": "category_d41d88b628d2",
+        "h4": "Exposure behavior",
+        "h5": null,
+        "name_cn": "暴露行为",
+        "name_en": "Exposure behavior"
+      },
+      {
+        "path": "category_2b87a6e68be0",
+        "h4": "sex clothes",
+        "h5": null,
+        "name_cn": "色情服装",
+        "name_en": "sex clothes"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Anudity",
+    "source_url": "/wiki_pages/tag_group%3Anudity",
+    "html_file": "tag_group_nudity.html"
+  },
+  {
+    "id": "panties",
+    "name_cn": "内裤",
+    "name_en": "panties",
+    "display_name": "内裤",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Number of panties",
+        "h5": null,
+        "path": "Number of panties",
+        "name_cn": "内裤数量",
+        "name_en": "Number of panties"
+      },
+      {
+        "h4": "Appearance and models of panties",
+        "h5": null,
+        "path": "Appearance and models of panties",
+        "name_cn": "内裤外观与款式",
+        "name_en": "Appearance and models of panties"
+      },
+      {
+        "h4": "Panties with other clothes",
+        "h5": null,
+        "path": "Panties with other clothes",
+        "name_cn": "内裤与其他服装",
+        "name_en": "Panties with other clothes"
+      },
+      {
+        "h4": "Panties and body parts",
+        "h5": null,
+        "path": "Panties and body parts",
+        "name_cn": "内裤与身体部位",
+        "name_en": "Panties and body parts"
+      },
+      {
+        "h4": "Panties and fluids",
+        "h5": null,
+        "path": "Panties and fluids",
+        "name_cn": "内裤与体液",
+        "name_en": "Panties and fluids"
+      },
+      {
+        "h4": "Panties and objects",
+        "h5": null,
+        "path": "Panties and objects",
+        "name_cn": "内裤与物品",
+        "name_en": "Panties and objects"
+      },
+      {
+        "h4": "Memes",
+        "h5": null,
+        "path": "Memes",
+        "name_cn": "网络梗",
+        "name_en": "Memes"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apanties",
+    "source_url": "/wiki_pages/tag_group%3Apanties",
+    "html_file": "tag_group_panties.html"
+  },
+  {
+    "id": "penis",
+    "name_cn": "阴茎",
+    "name_en": "penis",
+    "display_name": "阴茎",
+    "search_enabled": false,
+    "library": "general",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apenis",
+    "source_url": "/wiki_pages/tag_group%3Apenis",
+    "html_file": "tag_group_penis.html"
+  },
+  {
+    "id": "posture",
+    "name_cn": "姿势",
+    "name_en": "posture",
+    "display_name": "姿势",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Basic positions",
+        "h5": null,
+        "path": "Basic positions",
+        "name_cn": "基本姿势",
+        "name_en": "Basic positions"
+      },
+      {
+        "h4": "Movement of the body",
+        "h5": null,
+        "path": "Movement of the body",
+        "name_cn": "身体运动",
+        "name_en": "Movement of the body"
+      },
+      {
+        "h4": "Posture of the head",
+        "h5": null,
+        "path": "Posture of the head",
+        "name_cn": "头部姿态",
+        "name_en": "Posture of the head"
+      },
+      {
+        "h4": "Torso inclination",
+        "h5": null,
+        "path": "Torso inclination",
+        "name_cn": "躯干倾斜",
+        "name_en": "Torso inclination"
+      },
+      {
+        "h4": "Arms",
+        "h5": null,
+        "path": "Arms",
+        "name_cn": "手臂",
+        "name_en": "Arms"
+      },
+      {
+        "h4": "Hips",
+        "h5": null,
+        "path": "Hips",
+        "name_cn": "髋部",
+        "name_en": "Hips"
+      },
+      {
+        "h4": "Legs",
+        "h5": null,
+        "path": "Legs",
+        "name_cn": "腿部",
+        "name_en": "Legs"
+      },
+      {
+        "h4": "Posture of at least two characters",
+        "h5": null,
+        "path": "Posture of at least two characters",
+        "name_cn": "双人及以上姿态",
+        "name_en": "Posture of at least two characters"
+      },
+      {
+        "h4": "Posture of at least three characters",
+        "h5": null,
+        "path": "Posture of at least three characters",
+        "name_cn": "三人及以上姿态",
+        "name_en": "Posture of at least three characters"
+      },
+      {
+        "h4": "Hugging",
+        "h5": null,
+        "path": "Hugging",
+        "name_cn": "拥抱",
+        "name_en": "Hugging"
+      },
+      {
+        "h4": "Carrying someone",
+        "h5": null,
+        "path": "Carrying someone",
+        "name_cn": "抱起或背负他人",
+        "name_en": "Carrying someone"
+      },
+      {
+        "h4": "Poses",
+        "h5": "Signature poses",
+        "path": "Poses/Signature poses",
+        "name_cn": "标志性姿势",
+        "name_en": "Signature poses"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aposture",
+    "source_url": "/wiki_pages/tag_group%3Aposture",
+    "html_file": "tag_group_posture.html"
+  },
+  {
+    "id": "prints",
+    "name_cn": "印花",
+    "name_en": "prints",
+    "display_name": "印花",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Patterns",
+        "h5": null,
+        "path": "Patterns",
+        "name_cn": "图案",
+        "name_en": "Patterns"
+      },
+      {
+        "h4": "Specific prints",
+        "h5": null,
+        "path": "Specific prints",
+        "name_cn": "特定印花",
+        "name_en": "Specific prints"
+      },
+      {
+        "h4": "Patterned things",
+        "h5": null,
+        "path": "Patterned things",
+        "name_cn": "带图案的物品",
+        "name_en": "Patterned things"
+      },
+      {
+        "h4": "Print items",
+        "h5": null,
+        "path": "Print items",
+        "name_cn": "印花物品",
+        "name_en": "Print items"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Aprints",
+    "source_url": "/wiki_pages/tag_group%3Aprints",
+    "html_file": "tag_group_prints.html"
+  },
+  {
+    "id": "pussy",
+    "name_cn": "阴部",
+    "name_en": "pussy",
+    "display_name": "阴部",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Anatomy of the pussy",
+        "h5": null,
+        "path": "Anatomy of the pussy",
+        "name_cn": "外阴结构",
+        "name_en": "Anatomy of the pussy"
+      },
+      {
+        "h4": "Pussy under clothes",
+        "h5": null,
+        "path": "Pussy under clothes",
+        "name_cn": "衣物下的外阴",
+        "name_en": "Pussy under clothes"
+      },
+      {
+        "h4": "Hands on pussy",
+        "h5": null,
+        "path": "Hands on pussy",
+        "name_cn": "手部与外阴",
+        "name_en": "Hands on pussy"
+      },
+      {
+        "h4": "Visible parts of the pussy",
+        "h5": null,
+        "path": "Visible parts of the pussy",
+        "name_cn": "外阴可见部位",
+        "name_en": "Visible parts of the pussy"
+      },
+      {
+        "h4": "Pussy and fluids",
+        "h5": null,
+        "path": "Pussy and fluids",
+        "name_cn": "外阴与体液",
+        "name_en": "Pussy and fluids"
+      },
+      {
+        "h4": "Sexual objects and acts involving the pussy",
+        "h5": null,
+        "path": "Sexual objects and acts involving the pussy",
+        "name_cn": "外阴相关用品与行为",
+        "name_en": "Sexual objects and acts involving the pussy"
+      },
+      {
+        "h4": "Pussy adornments",
+        "h5": null,
+        "path": "Pussy adornments",
+        "name_cn": "外阴装饰",
+        "name_en": "Pussy adornments"
+      },
+      {
+        "h4": "Pussy attire",
+        "h5": null,
+        "path": "Pussy attire",
+        "name_cn": "外阴相关服饰",
+        "name_en": "Pussy attire"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Apussy",
+    "source_url": "/wiki_pages/tag_group%3Apussy",
+    "html_file": "tag_group_pussy.html"
+  },
+  {
+    "id": "sex_acts",
+    "name_cn": "性行为",
+    "name_en": "sex_acts",
+    "display_name": "性行为",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Before sex",
+        "h5": null,
+        "path": "Before sex",
+        "name_cn": "性行为之前",
+        "name_en": "Before sex"
+      },
+      {
+        "h4": "Stimulation",
+        "h5": null,
+        "path": "Stimulation",
+        "name_cn": "性刺激",
+        "name_en": "Stimulation"
+      },
+      {
+        "h4": "Group sex",
+        "h5": null,
+        "path": "Group sex",
+        "name_cn": "多人性行为",
+        "name_en": "Group sex"
+      },
+      {
+        "h4": "Penetration and Insertion",
+        "h5": null,
+        "path": "Penetration and Insertion",
+        "name_cn": "插入行为",
+        "name_en": "Penetration and Insertion"
+      },
+      {
+        "h4": "Same-sex Acts",
+        "h5": null,
+        "path": "Same-sex Acts",
+        "name_cn": "同性性行为",
+        "name_en": "Same-sex Acts"
+      },
+      {
+        "h4": "Fetishes",
+        "h5": null,
+        "path": "Fetishes",
+        "name_cn": "性癖",
+        "name_en": "Fetishes"
+      },
+      {
+        "h4": "'Extreme' Fetishes",
+        "h5": null,
+        "path": "'Extreme' Fetishes",
+        "name_cn": "极端性癖",
+        "name_en": "'Extreme' Fetishes"
+      },
+      {
+        "path": "Ass and hands",
+        "h4": "Ass and hands",
+        "h5": null,
+        "name_cn": "臀部与手部",
+        "name_en": "Ass and hands"
+      },
+      {
+        "path": "Breasts and other parts of the body",
+        "h4": "Breasts and other parts of the body",
+        "h5": null,
+        "name_cn": "胸部与其他身体部位",
+        "name_en": "Breasts and other parts of the body"
+      },
+      {
+        "path": "Emotes",
+        "h4": "Emotes",
+        "h5": null,
+        "name_cn": "表情符号与表达",
+        "name_en": "Emotes"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asex_acts",
+    "source_url": "/wiki_pages/tag_group%3Asex_acts",
+    "html_file": "tag_group_sex_acts.html"
+  },
+  {
+    "id": "sex_objects",
+    "name_cn": "性用品",
+    "name_en": "sex_objects",
+    "display_name": "性用品",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Sex Toys",
+        "h5": null,
+        "path": "Sex Toys",
+        "name_cn": "性玩具",
+        "name_en": "Sex Toys"
+      },
+      {
+        "h4": "Fluids",
+        "h5": null,
+        "path": "Fluids",
+        "name_cn": "体液",
+        "name_en": "Fluids"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asex_objects",
+    "source_url": "/wiki_pages/tag_group%3Asex_objects",
+    "html_file": "tag_group_sex_objects.html"
+  },
+  {
+    "id": "sexual_positions",
+    "name_cn": "性姿势",
+    "name_en": "sexual_positions",
+    "display_name": "性姿势",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Positions",
+        "h5": null,
+        "path": "Positions",
+        "name_cn": "姿势",
+        "name_en": "Positions"
+      },
+      {
+        "h4": "Bondage-specific",
+        "h5": null,
+        "path": "Bondage-specific",
+        "name_cn": "束缚专用姿势",
+        "name_en": "Bondage-specific"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asexual_positions",
+    "source_url": "/wiki_pages/tag_group%3Asexual_positions",
+    "html_file": "tag_group_sexual_positions.html"
+  },
+  {
+    "id": "shoulders",
+    "name_cn": "肩膀",
+    "name_en": "shoulders",
+    "display_name": "肩膀",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Anatomy of shoulders",
+        "h5": null,
+        "path": "Anatomy of shoulders",
+        "name_cn": "肩部结构",
+        "name_en": "Anatomy of shoulders"
+      },
+      {
+        "h4": "Attire for shoulders",
+        "h5": "Attire designed for shoulders",
+        "path": "Attire for shoulders/Attire designed for shoulders",
+        "name_cn": "肩部专用服饰",
+        "name_en": "Attire designed for shoulders"
+      },
+      {
+        "h4": "Attire for shoulders",
+        "h5": "Exposed shoulders",
+        "path": "Attire for shoulders/Exposed shoulders",
+        "name_cn": "裸露肩部",
+        "name_en": "Exposed shoulders"
+      },
+      {
+        "h4": "Attire for shoulders",
+        "h5": "Clothing physically designed to leave the shoulders bare",
+        "path": "Attire for shoulders/Clothing physically designed to leave the shoulders bare",
+        "name_cn": "露肩服装",
+        "name_en": "Clothing physically designed to leave the shoulders bare"
+      },
+      {
+        "h4": "Shoulders with something else",
+        "h5": "Objects with shoulders",
+        "path": "Shoulders with something else/Objects with shoulders",
+        "name_cn": "物品与肩部",
+        "name_en": "Objects with shoulders"
+      },
+      {
+        "h4": "Shoulders with something else",
+        "h5": "Hands / arms with shoulders",
+        "path": "Shoulders with something else/Hands / arms with shoulders",
+        "name_cn": "手臂与肩部",
+        "name_en": "Hands / arms with shoulders"
+      },
+      {
+        "h4": "Shoulders with something else",
+        "h5": "People touching shoulders",
+        "path": "Shoulders with something else/People touching shoulders",
+        "name_cn": "触碰肩部",
+        "name_en": "People touching shoulders"
+      },
+      {
+        "h4": "Shoulders with something else",
+        "h5": "Animals with shoulders",
+        "path": "Shoulders with something else/Animals with shoulders",
+        "name_cn": "动物与肩部",
+        "name_en": "Animals with shoulders"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Ashoulders",
+    "source_url": "/wiki_pages/tag_group%3Ashoulders",
+    "html_file": "tag_group_shoulders.html"
+  },
+  {
+    "id": "sleeves",
+    "name_cn": "袖子",
+    "name_en": "sleeves",
+    "display_name": "袖子",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Colors",
+        "h5": null,
+        "path": "Colors",
+        "name_cn": "颜色",
+        "name_en": "Colors"
+      },
+      {
+        "h4": "Patterns",
+        "h5": null,
+        "path": "Patterns",
+        "name_cn": "图案",
+        "name_en": "Patterns"
+      },
+      {
+        "h4": "Length",
+        "h5": null,
+        "path": "Length",
+        "name_cn": "长度",
+        "name_en": "Length"
+      },
+      {
+        "h4": "Style",
+        "h5": null,
+        "path": "Style",
+        "name_cn": "样式",
+        "name_en": "Style"
+      },
+      {
+        "h4": "Trim",
+        "h5": null,
+        "path": "Trim",
+        "name_cn": "饰边",
+        "name_en": "Trim"
+      },
+      {
+        "h4": "Type",
+        "h5": null,
+        "path": "Type",
+        "name_cn": "类型",
+        "name_en": "Type"
+      },
+      {
+        "h4": "Actions",
+        "h5": null,
+        "path": "Actions",
+        "name_cn": "动作",
+        "name_en": "Actions"
+      },
+      {
+        "h4": "Clothing with abnormal sleeves",
+        "h5": null,
+        "path": "Clothing with abnormal sleeves",
+        "name_cn": "特殊袖型服装",
+        "name_en": "Clothing with abnormal sleeves"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asleeves",
+    "source_url": "/wiki_pages/tag_group%3Asleeves",
+    "html_file": "tag_group_sleeves.html"
+  },
+  {
+    "id": "symbols",
+    "name_cn": "符号",
+    "name_en": "symbols",
+    "display_name": "符号",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Geometric shapes",
+        "h5": "Two-dimensional shapes",
+        "path": "Geometric shapes/Two-dimensional shapes",
+        "name_cn": "二维形状",
+        "name_en": "Two-dimensional shapes"
+      },
+      {
+        "h4": "Geometric shapes",
+        "h5": "Three-dimensional shapes",
+        "path": "Geometric shapes/Three-dimensional shapes",
+        "name_cn": "三维形状",
+        "name_en": "Three-dimensional shapes"
+      },
+      {
+        "h4": "Symbols of emotions",
+        "h5": null,
+        "path": "Symbols of emotions",
+        "name_cn": "情绪符号",
+        "name_en": "Symbols of emotions"
+      },
+      {
+        "h4": "Musical symbols",
+        "h5": null,
+        "path": "Musical symbols",
+        "name_cn": "音乐符号",
+        "name_en": "Musical symbols"
+      },
+      {
+        "h4": "Text, languages, letters, numbers, punctuation",
+        "h5": null,
+        "path": "Text, languages, letters, numbers, punctuation",
+        "name_cn": "文字、语言、字母、数字与标点",
+        "name_en": "Text, languages, letters, numbers, punctuation"
+      },
+      {
+        "h4": "Currency symbols",
+        "h5": null,
+        "path": "Currency symbols",
+        "name_cn": "货币符号",
+        "name_en": "Currency symbols"
+      },
+      {
+        "h4": "Encodings",
+        "h5": null,
+        "path": "Encodings",
+        "name_cn": "编码",
+        "name_en": "Encodings"
+      },
+      {
+        "h4": "Genders / Astronomical symbols",
+        "h5": "Solar system (tags organized in the astronomical order)",
+        "path": "Genders / Astronomical symbols/Solar system (tags organized in the astronomical order)",
+        "name_cn": "太阳系符号（按天体顺序）",
+        "name_en": "Solar system (tags organized in the astronomical order)"
+      },
+      {
+        "h4": "Symbols from the real world",
+        "h5": "France",
+        "path": "Symbols from the real world/France",
+        "name_cn": "法国",
+        "name_en": "France"
+      },
+      {
+        "h4": "Symbols from the real world",
+        "h5": "Japan",
+        "path": "Symbols from the real world/Japan",
+        "name_cn": "日本",
+        "name_en": "Japan"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Arknights",
+        "path": "Symbols of specific series/mangas/games/etc./Arknights",
+        "name_cn": "明日方舟",
+        "name_en": "Arknights"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Azur Lane",
+        "path": "Symbols of specific series/mangas/games/etc./Azur Lane",
+        "name_cn": "碧蓝航线",
+        "name_en": "Azur Lane"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Blazblue",
+        "path": "Symbols of specific series/mangas/games/etc./Blazblue",
+        "name_cn": "苍翼默示录",
+        "name_en": "Blazblue"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Bleach",
+        "path": "Symbols of specific series/mangas/games/etc./Bleach",
+        "name_cn": "死神",
+        "name_en": "Bleach"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Fate (series)",
+        "path": "Symbols of specific series/mangas/games/etc./Fate (series)",
+        "name_cn": "Fate系列",
+        "name_en": "Fate (series)"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Fullmetal Alchemist",
+        "path": "Symbols of specific series/mangas/games/etc./Fullmetal Alchemist",
+        "name_cn": "钢之炼金术师",
+        "name_en": "Fullmetal Alchemist"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Gensou Suikoden",
+        "path": "Symbols of specific series/mangas/games/etc./Gensou Suikoden",
+        "name_cn": "幻想水浒传",
+        "name_en": "Gensou Suikoden"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Girls und Panzer",
+        "path": "Symbols of specific series/mangas/games/etc./Girls und Panzer",
+        "name_cn": "少女与战车",
+        "name_en": "Girls und Panzer"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Identity V",
+        "path": "Symbols of specific series/mangas/games/etc./Identity V",
+        "name_cn": "第五人格",
+        "name_en": "Identity V"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Kemono Friends",
+        "path": "Symbols of specific series/mangas/games/etc./Kemono Friends",
+        "name_cn": "兽娘动物园",
+        "name_en": "Kemono Friends"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Naruto",
+        "path": "Symbols of specific series/mangas/games/etc./Naruto",
+        "name_cn": "火影忍者",
+        "name_en": "Naruto"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "One Piece",
+        "path": "Symbols of specific series/mangas/games/etc./One Piece",
+        "name_cn": "海贼王",
+        "name_en": "One Piece"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Shingeki no Kyojin",
+        "path": "Symbols of specific series/mangas/games/etc./Shingeki no Kyojin",
+        "name_cn": "进击的巨人",
+        "name_en": "Shingeki no Kyojin"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Suite Precure",
+        "path": "Symbols of specific series/mangas/games/etc./Suite Precure",
+        "name_cn": "Suite光之美少女",
+        "name_en": "Suite Precure"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "Tales of Xillia",
+        "path": "Symbols of specific series/mangas/games/etc./Tales of Xillia",
+        "name_cn": "无尽传说",
+        "name_en": "Tales of Xillia"
+      },
+      {
+        "h4": "Symbols of specific series/mangas/games/etc.",
+        "h5": "World Witches Series",
+        "path": "Symbols of specific series/mangas/games/etc./World Witches Series",
+        "name_cn": "世界魔女系列",
+        "name_en": "World Witches Series"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Asymbols",
+    "source_url": "/wiki_pages/tag_group%3Asymbols",
+    "html_file": "tag_group_symbols.html"
+  },
+  {
+    "id": "verbs_and_gerunds",
+    "name_cn": "动作与动名词",
+    "name_en": "verbs_and_gerunds",
+    "display_name": "动作与动名词",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "h4": "Verbs",
+        "h5": "List of tagged verbs",
+        "path": "Verbs/List of tagged verbs",
+        "name_cn": "动词标签列表",
+        "name_en": "List of tagged verbs"
+      },
+      {
+        "h4": "Gerunds",
+        "h5": "List of tagged gerunds",
+        "path": "Gerunds/List of tagged gerunds",
+        "name_cn": "动名词标签列表",
+        "name_en": "List of tagged gerunds"
+      },
+      {
+        "h4": "Ambiguous",
+        "h5": null,
+        "path": "Ambiguous",
+        "name_cn": "含义不明确",
+        "name_en": "Ambiguous"
+      },
+      {
+        "path": "Ass and hands",
+        "h4": "Ass and hands",
+        "h5": null,
+        "name_cn": "臀部与手部",
+        "name_en": "Ass and hands"
+      },
+      {
+        "path": "Fetishes",
+        "h4": "Fetishes",
+        "h5": null,
+        "name_cn": "性癖",
+        "name_en": "Fetishes"
+      },
+      {
+        "path": "Gestures encompassing only one hand",
+        "h4": "Gestures encompassing only one hand",
+        "h5": null,
+        "name_cn": "单手手势",
+        "name_en": "Gestures encompassing only one hand"
+      },
+      {
+        "path": "One or two eyes closed",
+        "h4": "One or two eyes closed",
+        "h5": null,
+        "name_cn": "闭眼与单眼闭合",
+        "name_en": "One or two eyes closed"
+      },
+      {
+        "path": "Penetration and Insertion",
+        "h4": "Penetration and Insertion",
+        "h5": null,
+        "name_cn": "插入行为",
+        "name_en": "Penetration and Insertion"
+      },
+      {
+        "path": "Shoes and Footwear",
+        "h4": "Shoes and Footwear",
+        "h5": null,
+        "name_cn": "鞋与足部穿戴",
+        "name_en": "Shoes and Footwear"
+      },
+      {
+        "path": "Stimulation",
+        "h4": "Stimulation",
+        "h5": null,
+        "name_cn": "性刺激",
+        "name_en": "Stimulation"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "url": "https://danbooru.donmai.us/wiki_pages/tag_group%3Averbs_and_gerunds",
+    "source_url": "/wiki_pages/tag_group%3Averbs_and_gerunds",
+    "html_file": "tag_group_verbs_and_gerunds.html"
+  },
+  {
+    "id": "shoes",
+    "name_cn": "鞋子",
+    "name_en": "shoes",
+    "display_name": "鞋子",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "path": "Shoes and Footwear",
+        "h4": "Shoes and Footwear",
+        "h5": null,
+        "name_cn": "鞋与足部穿戴",
+        "name_en": "Shoes and Footwear"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "scene",
+    "name_cn": "场景",
+    "name_en": "scene",
+    "display_name": "场景",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "path": "校园与建筑 / 校门与校园入口 / 环境位置",
+        "h4": "校园与建筑 / 校门与校园入口 / 环境位置",
+        "h5": null,
+        "name_cn": "校园入口·环境位置",
+        "name_en": "School entrance: Location"
+      },
+      {
+        "path": "校园与建筑 / 校门与校园入口 / 立柱与门楼",
+        "h4": "校园与建筑 / 校门与校园入口 / 立柱与门楼",
+        "h5": null,
+        "name_cn": "校园入口·立柱与门楼",
+        "name_en": "School entrance: Pillars and gatehouses"
+      },
+      {
+        "path": "校园与建筑 / 校门与校园入口 / 门体形制",
+        "h4": "校园与建筑 / 校门与校园入口 / 门体形制",
+        "h5": null,
+        "name_cn": "校园入口·门体形制",
+        "name_en": "School entrance: Gate designs"
+      },
+      {
+        "path": "校园与建筑 / 校门与校园入口 / 附属设施",
+        "h4": "校园与建筑 / 校门与校园入口 / 附属设施",
+        "h5": null,
+        "name_cn": "校园入口·附属设施",
+        "name_en": "School entrance: Auxiliary facilities"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "cg_严重重口过激_157abd",
+    "name_cn": "严重重口过激",
+    "name_en": "cg_严重重口过激_157abd",
+    "display_name": "严重重口过激",
+    "library": "general",
+    "search_enabled": false,
+    "categories": [
+      {
+        "path": "Locations",
+        "h4": "Locations",
+        "h5": null,
+        "name_cn": "位置与场所",
+        "name_en": "Locations"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "cg_国风武侠_cc6083",
+    "name_cn": "国风武侠",
+    "name_en": "cg_国风武侠_cc6083",
+    "display_name": "国风武侠",
+    "library": "general",
+    "search_enabled": true,
+    "categories": [
+      {
+        "path": "Decorations",
+        "h4": "Decorations",
+        "h5": null,
+        "name_cn": "装饰",
+        "name_en": "Decorations"
+      },
+      {
+        "path": "Traditional Clothing",
+        "h4": "Traditional Clothing",
+        "h5": null,
+        "name_cn": "传统服装",
+        "name_en": "Traditional Clothing"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "cg_blue_archive_characters",
+    "name_cn": "蔚蓝档案",
+    "name_en": "blue_archive_characters",
+    "display_name": "蔚蓝档案角色",
+    "search_enabled": true,
+    "library": "character",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "content_file": "data/translated/cg_blue_archive_characters_蔚蓝档案角色.json"
+  },
+  {
+    "id": "cg_arknights_characters",
+    "name_cn": "明日方舟",
+    "name_en": "arknights_characters",
+    "display_name": "明日方舟角色",
+    "library": "character",
+    "search_enabled": true,
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      },
+      {
+        "path": "sex/female",
+        "h4": "角色性别",
+        "h5": "女性角色",
+        "name_cn": "女性角色",
+        "name_en": "Female characters"
+      },
+      {
+        "path": "sex/male",
+        "h4": "角色性别",
+        "h5": "男性角色",
+        "name_cn": "男性角色",
+        "name_en": "Male characters"
+      }
+    ],
+    "content_file": "data/translated/cg_arknights_characters_明日方舟角色.json",
+    "source_url": "https://danbooru.donmai.us/tags?search%5Bname_matches%5D=*_%28arknights%29"
+  },
+  {
+    "id": "cg_rezero_characters",
+    "name_cn": "从零开始的异世界生活",
+    "name_en": "rezero_characters",
+    "display_name": "Re从零开始的异世界生活角色",
+    "library": "character",
+    "search_enabled": true,
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "content_file": "data/translated/cg_rezero_characters_Re从零开始的异世界生活角色.json",
+    "source_url": "https://danbooru.donmai.us/tags?search%5Bname_matches%5D=*_%28re%3Azero%29"
+  },
+  {
+    "id": "cg_kaomoji",
+    "name_cn": "颜文字",
+    "name_en": "kaomoji",
+    "display_name": "颜文字",
+    "search_enabled": false,
+    "library": "general",
+    "categories": [
+      {
+        "path": "Emotes",
+        "h4": "Emotes",
+        "h5": null,
+        "name_cn": "表情符号与表达",
+        "name_en": "Emotes"
+      },
+      {
+        "path": "Emotions and expressions",
+        "h4": "Emotions and expressions",
+        "h5": null,
+        "name_cn": "情绪与表情",
+        "name_en": "Emotions and expressions"
+      },
+      {
+        "path": "Gestures encompassing only one hand",
+        "h4": "Gestures encompassing only one hand",
+        "h5": null,
+        "name_cn": "单手手势",
+        "name_en": "Gestures encompassing only one hand"
+      },
+      {
+        "path": "Sexual",
+        "h4": "Sexual",
+        "h5": null,
+        "name_cn": "性相关",
+        "name_en": "Sexual"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "cg_mushoku_tensei_characters",
+    "name_cn": "无职转生",
+    "name_en": "mushoku_tensei_characters",
+    "display_name": "无职转生角色",
+    "search_enabled": true,
+    "library": "character",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "content_file": "data/translated/cg_mushoku_tensei_characters_无职转生角色.json",
+    "source_url": "https://danbooru.donmai.us/tags?search%5Bname_matches%5D=*_mushoku_tensei"
+  },
+  {
+    "id": "cg_转头与视线_a52c90",
+    "name_cn": "转头与视线",
+    "name_en": "cg_转头与视线_a52c90",
+    "display_name": "转头与视线",
+    "search_enabled": true,
+    "library": "general",
+    "categories": [
+      {
+        "path": "Local prompt / Head turn and gaze",
+        "h4": "Local prompt / Head turn and gaze",
+        "h5": null,
+        "name_cn": "本地提示词：转头与视线",
+        "name_en": "Local prompt / Head turn and gaze"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "cg_preset_wuthering_waves",
+    "name_cn": "鸣潮",
+    "name_en": "cg_preset_wuthering_waves",
+    "display_name": "预设·鸣潮",
+    "search_enabled": true,
+    "preset_group": true,
+    "preset_category": "鸣潮",
+    "display_mode": "preset_cards",
+    "library": "character",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      },
+      {
+        "path": "sex/female",
+        "h4": "角色性别",
+        "h5": "女性角色",
+        "name_cn": "女性角色",
+        "name_en": "Female characters"
+      },
+      {
+        "path": "sex/male",
+        "h4": "角色性别",
+        "h5": "男性角色",
+        "name_cn": "男性角色",
+        "name_en": "Male characters"
+      }
+    ],
+    "content_file": "data/translated/cg_preset_wuthering_waves_预设·鸣潮.json"
+  },
+  {
+    "id": "cg_preset_azur_lane",
+    "name_cn": "碧蓝航线",
+    "name_en": "cg_preset_azur_lane",
+    "display_name": "预设·碧蓝航线",
+    "search_enabled": true,
+    "preset_group": true,
+    "preset_category": "碧蓝航线",
+    "display_mode": "preset_cards",
+    "library": "character",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      },
+      {
+        "path": "sex/female",
+        "h4": "角色性别",
+        "h5": "女性角色",
+        "name_cn": "女性角色",
+        "name_en": "Female characters"
+      },
+      {
+        "path": "sex/male",
+        "h4": "角色性别",
+        "h5": "男性角色",
+        "name_cn": "男性角色",
+        "name_en": "Male characters"
+      }
+    ],
+    "content_file": "data/translated/cg_preset_azur_lane_预设·碧蓝航线.json"
+  },
+  {
+    "id": "cg_preset_bocchi_the_rock",
+    "name_cn": "孤独摇滚！",
+    "name_en": "cg_preset_bocchi_the_rock",
+    "display_name": "预设·孤独摇滚！",
+    "search_enabled": true,
+    "preset_group": true,
+    "preset_category": "孤独摇滚！",
+    "display_mode": "preset_cards",
+    "library": "character",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "content_file": "data/translated/cg_preset_bocchi_the_rock_预设·孤独摇滚！.json"
+  },
+  {
+    "id": "cg_preset_makeine",
+    "name_cn": "败犬女主太多了！",
+    "name_en": "cg_preset_makeine",
+    "display_name": "预设·败犬女主太多了！",
+    "search_enabled": true,
+    "preset_group": true,
+    "preset_category": "败犬女主太多了！",
+    "display_mode": "preset_cards",
+    "library": "character",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "content_file": "data/translated/cg_preset_makeine_预设·败犬女主太多了！.json"
+  },
+  {
+    "id": "cg_preset_monica",
+    "name_cn": "沉默魔女的秘密",
+    "name_en": "cg_preset_monica",
+    "display_name": "预设·沉默魔女的秘密",
+    "search_enabled": true,
+    "preset_group": true,
+    "preset_category": "莫妮卡（本地触发词）",
+    "display_mode": "preset_cards",
+    "library": "character",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "content_file": "data/translated/cg_preset_monica_预设·沉默魔女的秘密.json"
+  },
+  {
+    "id": "cg_honkai_star_rail_characters",
+    "name_cn": "崩坏：星穹铁道",
+    "name_en": "honkai_star_rail_characters",
+    "display_name": "崩坏：星穹铁道角色",
+    "search_enabled": true,
+    "library": "character",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      },
+      {
+        "path": "sex/female",
+        "h4": "角色性别",
+        "h5": "女性角色",
+        "name_cn": "女性角色",
+        "name_en": "Female characters"
+      },
+      {
+        "path": "sex/male",
+        "h4": "角色性别",
+        "h5": "男性角色",
+        "name_cn": "男性角色",
+        "name_en": "Male characters"
+      }
+    ],
+    "content_file": "data/translated/cg_honkai_star_rail_characters_崩坏：星穹铁道角色.json",
+    "source_url": "https://danbooru.donmai.us/tags.json?limit=1000&search%5Bcategory%5D=4&search%5Bname_matches%5D=*%28honkai%3A_star_rail%29&search%5Border%5D=count"
+  },
+  {
+    "id": "cg_genshin_impact_characters",
+    "name_cn": "原神",
+    "name_en": "genshin_impact_characters",
+    "display_name": "原神角色",
+    "search_enabled": true,
+    "library": "character",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      },
+      {
+        "path": "sex/female",
+        "h4": "角色性别",
+        "h5": "女性角色",
+        "name_cn": "女性角色",
+        "name_en": "Female characters"
+      },
+      {
+        "path": "sex/male",
+        "h4": "角色性别",
+        "h5": "男性角色",
+        "name_cn": "男性角色",
+        "name_en": "Male characters"
+      }
+    ],
+    "content_file": "data/translated/cg_genshin_impact_characters_原神角色.json",
+    "source_url": "https://danbooru.donmai.us/tags.json?limit=1000&search%5Bcategory%5D=4&search%5Bname_matches%5D=*%28genshin_impact%29&search%5Border%5D=count"
+  },
+  {
+    "id": "cg_没用的颜色提示词_c599a8",
+    "name_cn": "没用的颜色提示词",
+    "name_en": "cg_没用的颜色提示词_c599a8",
+    "display_name": "没用的颜色提示词",
+    "search_enabled": false,
+    "library": "general",
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "cg_sousou_no_frieren_characters",
+    "name_cn": "葬送的芙莉莲",
+    "name_en": "sousou_no_frieren_characters",
+    "display_name": "葬送的芙莉莲角色",
+    "library": "character",
+    "search_enabled": true,
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "content_file": "data/translated/cg_sousou_no_frieren_characters_葬送的芙莉莲角色.json",
+    "source_url": "https://danbooru.donmai.us/tags?search%5Bname_matches%5D=*sousou_no_frieren*"
+  },
+  {
+    "id": "cg_怪诞猎奇_486f77",
+    "name_cn": "怪诞猎奇",
+    "name_en": "cg_怪诞猎奇_486f77",
+    "library": "general",
+    "search_enabled": false,
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "cg_意义不明标签_d4ed08",
+    "name_cn": "意义不明标签",
+    "name_en": "cg_意义不明标签_d4ed08",
+    "library": "general",
+    "search_enabled": false,
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "cg_神秘符号_add12e",
+    "name_cn": "神秘符号",
+    "name_en": "cg_神秘符号_add12e",
+    "library": "general",
+    "search_enabled": false,
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ]
+  },
+  {
+    "id": "character_ungrouped",
+    "name_cn": "未分类",
+    "name_en": "character_ungrouped",
+    "library": "character",
+    "search_enabled": true,
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      }
+    ],
+    "content_file": "data/translated/character_ungrouped.json"
+  },
+  {
+    "id": "cg_崩坏3_f9716d",
+    "name_cn": "崩坏3",
+    "name_en": "cg_崩坏3_f9716d",
+    "library": "character",
+    "search_enabled": true,
+    "categories": [
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      },
+      {
+        "path": "sex/female",
+        "h4": "角色性别",
+        "h5": "女性角色",
+        "name_cn": "女性角色",
+        "name_en": "Female characters"
+      },
+      {
+        "path": "sex/male",
+        "h4": "角色性别",
+        "h5": "男性角色",
+        "name_cn": "男性角色",
+        "name_en": "Male characters"
+      }
+    ],
+    "content_file": "data/translated/cg_崩坏3_f9716d.json"
+  },
+  {
+    "id": "cg_识别不了的多套服饰_f6a108",
+    "name_cn": "识别不了的多套服饰",
+    "name_en": "cg_识别不了的多套服饰_f6a108",
+    "library": "character",
+    "search_enabled": false,
+    "categories": [
+      {
+        "path": "category_3ff16e428125",
+        "h4": "amiya",
+        "h5": null,
+        "name_cn": "阿米娅",
+        "name_en": "amiya"
+      },
+      {
+        "path": "category_c02c0acfe2f4",
+        "h4": "kaierxi",
+        "h5": null,
+        "name_cn": "凯尔希",
+        "name_en": "kaierxi"
+      },
+      {
+        "path": "__uncategorized__",
+        "h4": "Uncategorized",
+        "h5": null,
+        "name_cn": "未分类",
+        "name_en": "Uncategorized",
+        "is_uncategorized": true
+      },
+      {
+        "path": "sex/female",
+        "h4": "角色性别",
+        "h5": "女性角色",
+        "name_cn": "女性角色",
+        "name_en": "Female characters"
+      },
+      {
+        "path": "sex/male",
+        "h4": "角色性别",
+        "h5": "男性角色",
+        "name_cn": "男性角色",
+        "name_en": "Male characters"
+      }
+    ],
+    "content_file": "data/translated/cg_识别不了的多套服饰_f6a108.json"
+  }
+]

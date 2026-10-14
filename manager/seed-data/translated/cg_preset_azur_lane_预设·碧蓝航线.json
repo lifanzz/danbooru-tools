@@ -1,0 +1,155 @@
+{
+  "group_name": "cg_preset_azur_lane",
+  "display_name": "碧蓝航线",
+  "source_url": "",
+  "url": "",
+  "categories": [
+    {
+      "path": "__uncategorized__",
+      "h4": "Uncategorized",
+      "h5": null,
+      "name_cn": "未分类",
+      "name_en": "Uncategorized",
+      "is_uncategorized": true
+    },
+    {
+      "path": "sex/female",
+      "h4": "角色性别",
+      "h5": "女性角色",
+      "name_cn": "女性角色",
+      "name_en": "Female characters"
+    },
+    {
+      "path": "sex/male",
+      "h4": "角色性别",
+      "h5": "男性角色",
+      "name_cn": "男性角色",
+      "name_en": "Male characters"
+    }
+  ],
+  "tags": [
+    {
+      "name": "azur_lane_le_malin_default",
+      "tag_cn": "恶毒·常服",
+      "prompt": "le malin \\(azur lane\\), azur lane, very long white hair, blue eyes, hair buns, white hair ribbon, white military-inspired dress, black inner dress, grey cape, gold trim, white thighhighs, high heels, holding sword",
+      "tag_cn_long": "本地自然语言角色预设：白色长发、蓝眼、双发髻与白色发带；白色军装风连衣裙、黑色内搭、灰色披风、金色饰边、白色长袜与高跟鞋，持剑。",
+      "groups": [
+        "cg_preset_azur_lane"
+      ],
+      "groups_cn": [
+        "碧蓝航线"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "azur_lane_le_malin_sleepy_sunday",
+      "tag_cn": "恶毒·懒懒的星期天",
+      "prompt": "le malin \\(azur lane\\), azur lane, very long white hair, blue eyes, hair buns, white sleeveless nightgown, frilled nightgown, pink ribbon, white flower hair ornament, barefoot, sitting under desk",
+      "tag_cn_long": "本地自然语言角色预设：白色长发、蓝眼与双发髻；白色无袖荷叶边睡裙、粉色丝带与白色花朵发饰，赤足蜷坐在书桌下。",
+      "groups": [
+        "cg_preset_azur_lane"
+      ],
+      "groups_cn": [
+        "碧蓝航线"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "azur_lane_le_malin_mercredi_secret_base",
+      "tag_cn": "恶毒·秘密基地的Mercredi",
+      "prompt": "le malin \\(azur lane\\), azur lane, very long white hair, blue eyes, hair buns, white one-piece swimsuit, white frilled swimsuit, headphones around neck, hammock, bare shoulders, barefoot, sunflower, wisteria flowers",
+      "tag_cn_long": "本地自然语言角色预设：白色长发、蓝眼与双发髻；白色荷叶边连体泳衣、颈挂耳机、露肩赤足，躺在吊床上，配向日葵与紫藤花。",
+      "groups": [
+        "cg_preset_azur_lane"
+      ],
+      "groups_cn": [
+        "碧蓝航线"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "azur_lane_le_malin_listless_lapin",
+      "tag_cn": "恶毒·慵懒的兔子",
+      "prompt": "le malin \\(azur lane\\), azur lane, white bunny girl outfit, very long white hair, blue eyes, long braid, white bunny ears, white leotard, white wrist cuffs, white bow tie, white high heels,naked suspenders, white crotchless pantyhose",
+      "tag_cn_long": "本地自然语言角色预设：白色长发、蓝眼与粗长辫；白色兔耳、白色兔女郎连体衣、白色长袜、白色腕饰、白色领结与白色兔尾，赤足。",
+      "groups": [
+        "cg_preset_azur_lane"
+      ],
+      "groups_cn": [
+        "碧蓝航线"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "azur_lane_janus_default",
+      "tag_cn": "雅努斯·常服",
+      "prompt": "janus \\(azur lane\\), azur lane, 1girl, blue hair, very long hair, twin braids, blue eyes, sailor collar, school uniform, white shirt, black skirt, black ascot, white pantyhose, white sailor hat",
+      "tag_cn_long": "本地自然语言角色预设：蓝色超长发、双辫与蓝眼；白色衬衫、黑色裙装、黑色领巾的水手服，搭配白色连裤袜与白色水手帽。",
+      "groups": [
+        "cg_preset_azur_lane"
+      ],
+      "groups_cn": [
+        "碧蓝航线"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "azur_lane_nagato_default",
+      "tag_cn": "长门·常服",
+      "prompt": "nagato \\(azur lane\\), azur lane, 1girl, black hair, very long hair, straight bangs, fox ears, yellow eyes, gold hair ornament, shrine maiden, red dress, white wide sleeves, gold trim, white thighhighs, red footwear,",
+      "tag_cn_long": "本地自然语言角色预设：黑色长发、齐刘海、狐耳、黄眼与金色发饰；红色巫女风连衣裙、白色宽袖、金色饰边、白色长袜与红色鞋履，佩带刀与刀鞘。",
+      "groups": [
+        "cg_preset_azur_lane"
+      ],
+      "groups_cn": [
+        "碧蓝航线"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "azur_lane_janus_fright_night_scaredy_cat",
+      "tag_cn": "雅努斯·万圣喵喵惊悚夜",
+      "prompt": "janus (fright-night scaredy-cat) \\(azur lane\\), azur lane, 1girl, blue hair, very long hair, twin braids, blue eyes, cat ears, halloween costume, black choker, black dress, detached sleeves, bat wings, demon tail, black thighhighs, torn thighhighs, black footwear, high heels",
+      "tag_cn_long": "本地自然语言角色预设：雅努斯的万圣节换装；蓝色超长发、双辫与蓝眼，搭配猫耳、黑色颈圈、黑色连衣裙、分离式袖子、蝙蝠翅膀、恶魔尾巴、破损黑色长袜与黑色高跟鞋。",
+      "groups": [
+        "cg_preset_azur_lane"
+      ],
+      "groups_cn": [
+        "碧蓝航线"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    },
+    {
+      "name": "azur_lane_janus_fear_of_changing_clothes",
+      "tag_cn": "雅努斯·踌躇的换衣时间",
+      "prompt": "janus \\(azur lane\\),janus (fear of changing...clothes) \\(azur lane\\),blue eyes,blue hair,braid,revealing clothes, sailor collar,pantyhose,see-through silhouette,hat,pleated skirt",
+      "tag_cn_long": "本地自然语言角色预设：雅努斯的学生服换装；蓝色超长发、单侧长辫与蓝眼，部分眼睛被头发遮挡，穿白色水手服短上衣、百褶裙、白色长袜与白色水手帽，带学生书包。",
+      "groups": [
+        "cg_preset_azur_lane"
+      ],
+      "groups_cn": [
+        "碧蓝航线"
+      ],
+      "category_path": "sex/female",
+      "wiki_exists": false,
+      "wiki_url": ""
+    }
+  ],
+  "total_tags": 8,
+  "custom": true,
+  "display_mode": "preset_cards"
+}
